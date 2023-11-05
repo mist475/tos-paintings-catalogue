@@ -3,6 +3,11 @@
 
   export let paintings;
   export let filter;
+  export let field;
+
+  
+  let displayed_paintings = paintings;
+  $: displayed_paintings = paintings_filter(paintings, filter, field);
 
   let sort_direction = 1;
 
@@ -25,68 +30,74 @@
       return 0;
     }
 
-    paintings = paintings.sort(compare_function);
+    displayed_paintings = displayed_paintings.sort(compare_function);
   }
 
-  //TODO: use the other text fields as well
-  $: paintings = paintings_filter(paintings,filter)
+  function paintings_filter(paintings, filter, field) {
+    console.log([filter, field]);
 
-  function paintings_filter(paintings, filter) {
     return paintings.filter((painting) => {
-      console.log("runs")
-      if (filter == "myName") {
+      //Show complete list if nothing entered
+      if (filter == undefined | filter == '') {
         return true;
       }
-      return painting.title.toLowerCase().includes(filter.toLowerCase());
-    })
+
+      // Prevent type error 
+      if (field !== "width" && field !== "height") {
+        return painting[field].toLowerCase().includes(filter.toLowerCase());
+      } else {
+        return painting[field] == filter;
+      }
+    });
   }
 
-  sort_function('title')
+  //Sort list on title
+  sort_function("title");
 </script>
-<p>Reactive value in the parent component: {filter}</p>
-<table class="w-full p-6">
+
+<table class="w-full table-auto">
   <thead>
-    <tr class="">
+    <tr>
       <th class="">Painting</th>
       <th
         class=""
         on:click={() => {
           sort_function("title", true);
           sort_direction *= -1;
-        }}>title</th
+        }}>Title</th
       >
       <th
-        class=""
+        class="text-center"
         on:click={() => {
           sort_function("width");
           sort_direction *= -1;
-        }}>width</th
+        }}>Width</th
       >
       <th
         class=""
         on:click={() => {
           sort_function("height");
           sort_direction *= -1;
-        }}>height</th
+        }}>Height</th
       >
       <th
         class=""
         on:click={() => {
           sort_function("lore_author", true);
           sort_direction *= -1;
-        }}>lore author</th
+        }}>Lore author</th
       >
       <th
         class=""
         on:click={() => {
           sort_function("real_author", true);
           sort_direction *= -1;
-        }}>real author</th
+        }}>Real author</th
       >
     </tr>
   </thead>
   <tbody>
-    {#each paintings as painting}
+    {#each displayed_paintings as painting}
       <tr>
         <td><img src={painting.source} alt="" /></td>
         <td>{painting.title}</td>

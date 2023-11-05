@@ -9,10 +9,12 @@
 
   let promise = getPaintings();
 
-  let p = 'MyName'
-  $: data = p.toLowerCase()
+  let x = "";
+  let y = "title";
 
-  console.log(data)
+  $: search_term = x.toLowerCase();
+  $: field = y.toLowerCase();
+
 </script>
 
 <main class="w-full">
@@ -21,9 +23,7 @@
       <h1 class="text-4xl">Load paintings...</h1>
     </div>
   {:then paintings}
-    <div class="p-6">
-      <OptionBar bind:title={p}/>
-      <Table paintings={paintings} filter={data} />
-    </div>
+    <OptionBar bind:title={x} bind:field={y} />
+    <Table {paintings} filter={search_term} field={field}/>
   {/await}
 </main>
