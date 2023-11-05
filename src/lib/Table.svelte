@@ -3,7 +3,7 @@
 
   export let paintings;
 
-  let sort_dirrection = 1;
+  let sort_direction = 1;
 
   function sort_function(column, is_text = false) {
     function compare_function(a, b) {
@@ -16,9 +16,9 @@
       }
 
       if (a < b) {
-        return 1 * sort_dirrection;
+        return 1 * sort_direction;
       } else if (a > b) {
-        return -1 * sort_dirrection;
+        return -1 * sort_direction;
       }
 
       return 0;
@@ -38,35 +38,35 @@
         class=""
         on:click={() => {
           sort_function("title", true);
-          sort_dirrection *= -1;
+          sort_direction *= -1;
         }}>title</th
       >
       <th
         class=""
         on:click={() => {
           sort_function("width");
-          sort_dirrection *= -1;
+          sort_direction *= -1;
         }}>width</th
       >
       <th
         class=""
         on:click={() => {
           sort_function("height");
-          sort_dirrection *= -1;
+          sort_direction *= -1;
         }}>height</th
       >
       <th
         class=""
         on:click={() => {
           sort_function("lore_author", true);
-          sort_dirrection *= -1;
+          sort_direction *= -1;
         }}>lore author</th
       >
       <th
         class=""
         on:click={() => {
           sort_function("real_author", true);
-          sort_dirrection *= -1;
+          sort_direction *= -1;
         }}>real author</th
       >
     </tr>
@@ -74,7 +74,7 @@
   <tbody>
     {#each paintings as painting}
       <tr>
-        <td><img src="" alt="" />test</td>
+        <td><img src={painting.source} alt="" /></td>
         <td>{painting.title}</td>
         <td>{painting.width}</td>
         <td>{painting.height}</td>

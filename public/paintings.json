@@ -1,6 +1,6 @@
 [
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687743678808065/argonath.png",
+    "source": "paintings/argonath.png",
     "title": "The Argonath",
     "width": 2,
     "height": 1,
@@ -8,7 +8,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687747285909544/barrow_downs.png",
+    "source": "paintings/barrow_downs.png",
     "title": "The Barrow-Downs",
     "width": 1,
     "height": 1,
@@ -16,7 +16,7 @@
     "real_author": "Arbiter"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687750683033657/black_rider.png",
+    "source": "paintings/black_rider.png",
     "title": "Black Rider",
     "width": 1,
     "height": 2,
@@ -24,7 +24,7 @@
     "real_author": "OneBehindTheHair"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687754692919307/brown_wizard.png",
+    "source": "paintings/brown_wizard.png",
     "title": "The Brown Wizard",
     "width": 1,
     "height": 2,
@@ -32,7 +32,7 @@
     "real_author": "WibblyWolf"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687757801029632/bywater_lake.png",
+    "source": "paintings/bywater_lake.png",
     "title": "Bywater by the Lake",
     "width": 1,
     "height": 1,
@@ -40,7 +40,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687761361862716/cherry_blossoms.png",
+    "source": "paintings/cherry_blossoms.png",
     "title": "Cherry Blossoms",
     "width": 2,
     "height": 4,
@@ -48,7 +48,7 @@
     "real_author": "EarthToEcho13"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687764205469726/defaced_gondor.png",
+    "source": "paintings/defaced_gondor.png",
     "title": "Defaced Gondor Painting",
     "width": 1,
     "height": 1,
@@ -56,7 +56,7 @@
     "real_author": "OneBehindTheHair"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687767019847720/departure_ringbearers.png",
+    "source": "paintings/departure_ringbearers.png",
     "title": "Departure of the Ringbearers",
     "width": 1,
     "height": 2,
@@ -64,7 +64,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687770148929558/elessar.png",
+    "source": "paintings/elessar.png",
     "title": "King Elessar",
     "width": 1,
     "height": 2,
@@ -72,7 +72,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687773470687289/elven_star.png",
+    "source": "paintings/elven_star.png",
     "title": "Elven-Star",
     "width": 1,
     "height": 1,
@@ -80,7 +80,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687787563548682/elwe_device.png",
+    "source": "paintings/elwe_device.png",
     "title": "Elwë's Device",
     "width": 1,
     "height": 1,
@@ -88,7 +88,7 @@
     "real_author": "Glaad1234"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687793033183258/eregion_ruins.png",
+    "source": "paintings/eregion_ruins.png",
     "title": "The Ruins of Eregion",
     "width": 2,
     "height": 2,
@@ -96,7 +96,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687797936324634/evendim.png",
+    "source": "paintings/evendim.png",
     "title": "Lake Evendim",
     "width": 2,
     "height": 1,
@@ -104,7 +104,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687802772226049/feanor_device.png",
+    "source": "paintings/feanor_device.png",
     "title": "Fëanor's Device",
     "width": 1,
     "height": 1,
@@ -112,7 +112,7 @@
     "real_author": "Carnifindion"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687807859916832/fingolfin_morgoth.png",
+    "source": "paintings/fingolfin_morgoth.png",
     "title": "Morgoth vs. Fingolfin",
     "width": 1,
     "height": 2,
@@ -120,7 +120,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687812129587202/firith_galad.png",
+    "source": "paintings/firith_galad.png",
     "title": "Firith Galad, City of the Wind",
     "width": 2,
     "height": 2,
@@ -128,7 +128,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687816533737502/forest_gate.png",
+    "source": "paintings/forest_gate.png",
     "title": "Forest Gate",
     "width": 1,
     "height": 1,
@@ -136,7 +136,7 @@
     "real_author": "Arbiter"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687824897179658/gondolin.png",
+    "source": "paintings/gondolin.png",
     "title": "Gondolin Under the Stars",
     "width": 4,
     "height": 4,
@@ -144,7 +144,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687830064693279/isildur_fall.png",
+    "source": "paintings/isildur_fall.png",
     "title": "the Fall of Isildur",
     "width": 2,
     "height": 2,
@@ -152,7 +152,7 @@
     "real_author": "Glaad1234"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687835210973225/lamedon_sunset.png",
+    "source": "paintings/lamedon_sunset.png",
     "title": "Sunset in Lamedon",
     "width": 2,
     "height": 2,
@@ -160,7 +160,7 @@
     "real_author": "Zeradash"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687840004931604/light_of_west.png",
+    "source": "paintings/light_of_west.png",
     "title": "The Light of the West",
     "width": 2,
     "height": 2,
@@ -168,7 +168,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687843909828679/light_weathertop.png",
+    "source": "paintings/light_weathertop.png",
     "title": "A Light on Weathertop",
     "width": 1,
     "height": 1,
@@ -176,7 +176,7 @@
     "real_author": "Rocket Engineer"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687848490139682/lonely_mountain.png",
+    "source": "paintings/lonely_mountain.png",
     "title": "The Lonely Mountain",
     "width": 1,
     "height": 1,
@@ -184,7 +184,7 @@
     "real_author": "Arbiter"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687852940427286/lossarnach_flowers.png",
+    "source": "paintings/lossarnach_flowers.png",
     "title": "The Vale of Flowers",
     "width": 1,
     "height": 2,
@@ -192,7 +192,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687857394778132/lossoth_village.png",
+    "source": "paintings/lossoth_village.png",
     "title": "Lossoth Village",
     "width": 2,
     "height": 1,
@@ -200,7 +200,7 @@
     "real_author": "Warlord"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687861857386506/lugburz_tapestry.png",
+    "source": "paintings/lugburz_tapestry.png",
     "title": "Lugbúrz Tapestry",
     "width": 2,
     "height": 1,
@@ -208,7 +208,7 @@
     "real_author": "OneBehindTheHair"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687869579100160/me_map.png",
+    "source": "paintings/me_map.png",
     "title": "Map of Middle-earth",
     "width": 1,
     "height": 1,
@@ -216,7 +216,7 @@
     "real_author": "0xcursor"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687872317980693/mirrormere.png",
+    "source": "paintings/mirrormere.png",
     "title": "Kheled-zâram",
     "width": 1,
     "height": 1,
@@ -224,7 +224,7 @@
     "real_author": "Carnifindion"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687877317722122/moonlit_lorien.png",
+    "source": "paintings/moonlit_lorien.png",
     "title": "Moonlit Lothlórien",
     "width": 1,
     "height": 2,
@@ -232,7 +232,7 @@
     "real_author": "Glaad1234"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687881872474162/nan_curunir.png",
+    "source": "paintings/nan_curunir.png",
     "title": "Nan Curunír",
     "width": 2,
     "height": 2,
@@ -240,7 +240,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687886360379402/nan_curunir_ruined.png",
+    "source": "paintings/nan_curunir_ruined.png",
     "title": "Nan Curunír (Despoiled) by Orcs",
     "width": 2,
     "height": 2,
@@ -248,7 +248,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687891754516497/nazgul.png",
+    "source": "paintings/nazgul.png",
     "title": "Nazgûl in the Shadows",
     "width": 1,
     "height": 2,
@@ -256,7 +256,7 @@
     "real_author": "Matador303"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687895751688202/one_ring.png",
+    "source": "paintings/one_ring.png",
     "title": "One Ring to Rule them All",
     "width": 1,
     "height": 1,
@@ -264,7 +264,7 @@
     "real_author": "InaneArtifact"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687900403040256/redhorn_gate.png",
+    "source": "paintings/redhorn_gate.png",
     "title": "The redhorn Gate",
     "width": 2,
     "height": 1,
@@ -272,7 +272,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687904412794881/rohan_tapestry.png",
+    "source": "paintings/rohan_tapestry.png",
     "title": "Rohan Tapestry",
     "width": 4,
     "height": 3,
@@ -280,7 +280,7 @@
     "real_author": "Gruk"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687909219598336/shadowfax.png",
+    "source": "paintings/shadowfax.png",
     "title": "Shadowfax",
     "width": 1,
     "height": 2,
@@ -288,7 +288,7 @@
     "real_author": "Pinata"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687914281861150/silmaril.png",
+    "source": "paintings/silmaril.png",
     "title": "Silmaril, Gem of the Elder Days",
     "width": 1,
     "height": 1,
@@ -296,7 +296,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687920405544980/sunrise_bag_end.png",
+    "source": "paintings/sunrise_bag_end.png",
     "title": "Sunrise over Bag-End",
     "width": 2,
     "height": 1,
@@ -304,7 +304,7 @@
     "real_author": "BUNling"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687922527862796/tenebrous_demon.png",
+    "source": "paintings/tenebrous_demon.png",
     "title": "A Tenebrous Demon",
     "width": 1,
     "height": 1,
@@ -312,7 +312,7 @@
     "real_author": "Angmarzku"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687927045259274/the_east.png",
+    "source": "paintings/the_east.png",
     "title": "The East",
     "width": 5,
     "height": 3,
@@ -320,7 +320,7 @@
     "real_author": "Zeradash"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687931189100574/tobold_horn.png",
+    "source": "paintings/tobold_horn.png",
     "title": "Tobold's Horn",
     "width": 1,
     "height": 1,
@@ -328,7 +328,7 @@
     "real_author": "OneBehindTheHair"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687935815680001/umbar_fruits.png",
+    "source": "paintings/umbar_fruits.png",
     "title": "New Fruits of Umbar",
     "width": 2,
     "height": 2,
@@ -336,7 +336,7 @@
     "real_author": "Gruk"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687939711926273/west_gate.png",
+    "source": "paintings/west_gate.png",
     "title": "West Gate",
     "width": 2,
     "height": 2,
@@ -344,7 +344,7 @@
     "real_author": "Oreo365"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687943889715220/willow_end.png",
+    "source": "paintings/willow_end.png",
     "title": "Willow End",
     "width": 2,
     "height": 2,
@@ -352,7 +352,7 @@
     "real_author": "post_it_notes"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624687947840749578/wine_jug.png",
+    "source": "paintings/wine_jug.png",
     "title": "Wine-Jug",
     "width": 1,
     "height": 2,
@@ -360,7 +360,7 @@
     "real_author": "Gruk"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624728878543405086/fire_hall.png",
+    "source": "paintings/fire_hall.png",
     "title": "Fire",
     "width": 4,
     "height": 2,
@@ -368,7 +368,7 @@
     "real_author": "Mares"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624734340223467531/blue_wizards.png",
+    "source": "paintings/blue_wizards.png",
     "title": "The Blue Wizards",
     "width": 1,
     "height": 1,
@@ -376,7 +376,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624734340655611904/dorwinion_splendour.png",
+    "source": "paintings/dorwinion_splendour.png",
     "title": "Dorwinion's Splendour",
     "width": 1,
     "height": 1,
@@ -384,7 +384,7 @@
     "real_author": "Marcobelva"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624734343776043040/draconic_worship.png",
+    "source": "paintings/draconic_worship.png",
     "title": "Draconic Worship",
     "width": 1,
     "height": 1,
@@ -392,7 +392,7 @@
     "real_author": "Angmarzku"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624734346565386250/for_frozen_eyes.png",
+    "source": "paintings/for_frozen_eyes.png",
     "title": "A Sight for Frozen Eyes",
     "width": 1,
     "height": 1,
@@ -400,7 +400,7 @@
     "real_author": "Angmarzku"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624734348897288232/kill_for_goblin_king.png",
+    "source": "paintings/kill_for_goblin_king.png",
     "title": "A Kill for the Goblin King",
     "width": 1,
     "height": 1,
@@ -408,7 +408,7 @@
     "real_author": "Angmarzku"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624734350591787009/lands_he_watches.png",
+    "source": "paintings/lands_he_watches.png",
     "title": "the Lands He Now Watches",
     "width": 2,
     "height": 1,
@@ -416,7 +416,7 @@
     "real_author": "Mopsi"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624734353423073290/mordor_glyph.png",
+    "source": "paintings/mordor_glyph.png",
     "title": "Mordorian Glyph",
     "width": 1,
     "height": 1,
@@ -424,7 +424,7 @@
     "real_author": "BUNling"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624734355595591687/mountains_sunrise.png",
+    "source": "paintings/mountains_sunrise.png",
     "title": "The Sun Rises",
     "width": 2,
     "height": 1,
@@ -432,7 +432,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624734357998796800/rattling_display.png",
+    "source": "paintings/rattling_display.png",
     "title": "A Rattling Display",
     "width": 1,
     "height": 1,
@@ -440,7 +440,7 @@
     "real_author": "Angmarzku"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624734360247205890/tower_west.png",
+    "source": "paintings/tower_west.png",
     "title": "Tower of the West",
     "width": 1,
     "height": 2,
@@ -448,7 +448,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624739774762188820/shadow_in_dark.png",
+    "source": "paintings/shadow_in_dark.png",
     "title": "A Shadow in the Dark",
     "width": 6,
     "height": 6,
@@ -456,7 +456,7 @@
     "real_author": "Jxmezm"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624748995792732219/arkenstone.png",
+    "source": "paintings/arkenstone.png",
     "title": "The Arkenstone",
     "width": 1,
     "height": 1,
@@ -464,7 +464,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624748998116245510/older_than_time.png",
+    "source": "paintings/older_than_time.png",
     "title": "Older than Time",
     "width": 1,
     "height": 1,
@@ -472,7 +472,7 @@
     "real_author": "OneEighth"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/624749000137900036/real_north.png",
+    "source": "paintings/real_north.png",
     "title": "The Real North",
     "width": 3,
     "height": 3,
@@ -480,7 +480,7 @@
     "real_author": "Nakras"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384286064738318/bag_end_sunset.png",
+    "source": "paintings/bag_end_sunset.png",
     "title": "Bag-End Sunset",
     "width": 2,
     "height": 2,
@@ -488,7 +488,7 @@
     "real_author": "Vernexer"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384302091304963/beacon_towers.png",
+    "source": "paintings/beacon_towers.png",
     "title": "Beacon Towers",
     "width": 1,
     "height": 1,
@@ -496,7 +496,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384303345532931/beorns_house.png",
+    "source": "paintings/beorns_house.png",
     "title": "Beorn's Hall",
     "width": 2,
     "height": 1,
@@ -504,7 +504,7 @@
     "real_author": "Glaad1234"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384306260443179/beren_luthien_morgoth.png",
+    "source": "paintings/beren_luthien_morgoth.png",
     "title": "Beren and Lúthien before Morgoth",
     "width": 2,
     "height": 2,
@@ -512,7 +512,7 @@
     "real_author": "Matador303"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384306516426780/east_osgiliath.png",
+    "source": "paintings/east_osgiliath.png",
     "title": "East Osgiliath",
     "width": 2,
     "height": 1,
@@ -520,7 +520,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384312568807434/fresh_kill.png",
+    "source": "paintings/fresh_kill.png",
     "title": "Fresh Kill",
     "width": 2,
     "height": 2,
@@ -528,7 +528,7 @@
     "real_author": "OneEighth"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384308680687636/fly_you_fools.png",
+    "source": "paintings/fly_you_fools.png",
     "title": "Fly, you Fools!",
     "width": 2,
     "height": 1,
@@ -536,7 +536,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384316842803220/grey_havens.png",
+    "source": "paintings/grey_havens.png",
     "title": "The Grey Havens",
     "width": 4,
     "height": 3,
@@ -544,7 +544,7 @@
     "real_author": "Vernexer"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384349537140758/mountains_cold.png",
+    "source": "paintings/mountains_cold.png",
     "title": "The Mountains Cold",
     "width": 10,
     "height": 4,
@@ -552,7 +552,7 @@
     "real_author": "Jxmezm"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384356197826572/narsil.png",
+    "source": "paintings/narsil.png",
     "title": "Narsil; Red and White Flame",
     "width": 4,
     "height": 4,
@@ -560,7 +560,7 @@
     "real_author": "InaneArtifact"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384362187423781/party_tree.png",
+    "source": "paintings/party_tree.png",
     "title": "The Party Tree",
     "width": 1,
     "height": 2,
@@ -568,7 +568,7 @@
     "real_author": "Rocket Engineer"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384365463175168/sand_view.png",
+    "source": "paintings/sand_view.png",
     "title": "Sand",
     "width": 3,
     "height": 2,
@@ -576,7 +576,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384372320862255/shelob_lair.png",
+    "source": "paintings/shelob_lair.png",
     "title": "In the Lair of Shelob",
     "width": 4,
     "height": 2,
@@ -584,7 +584,7 @@
     "real_author": "Warlord"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384377458622494/shire_map.png",
+    "source": "paintings/shire_map.png",
     "title": "Map of the Shirt",
     "width": 1,
     "height": 1,
@@ -592,7 +592,7 @@
     "real_author": "Rocket Engineer"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384383108481064/sickly_moon.png",
+    "source": "paintings/sickly_moon.png",
     "title": "The Sickly Moon",
     "width": 1,
     "height": 2,
@@ -600,7 +600,7 @@
     "real_author": "Paul673"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384388041113601/stars_strange.png",
+    "source": "paintings/stars_strange.png",
     "title": "Where the Starts are Strange",
     "width": 2,
     "height": 1,
@@ -608,7 +608,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384392306458645/sun_over_castle.png",
+    "source": "paintings/sun_over_castle.png",
     "title": "Sun over a Faraway Castle",
     "width": 1,
     "height": 1,
@@ -616,7 +616,7 @@
     "real_author": "Wogleslaw"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384399512404018/white_hand.png",
+    "source": "paintings/white_hand.png",
     "title": "White Hand",
     "width": 1,
     "height": 1,
@@ -624,7 +624,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384404675723303/wings_shadow.png",
+    "source": "paintings/wings_shadow.png",
     "title": "Wings of Shadow",
     "width": 1,
     "height": 1,
@@ -632,7 +632,7 @@
     "real_author": "Rocket Engineer"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625384396249104405/tree_man.png",
+    "source": "paintings/tree_man.png",
     "title": "Tree-man",
     "width": 1,
     "height": 2,
@@ -640,7 +640,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/625385819334508579/hobbo_hole.png",
+    "source": "paintings/hobbo_hole.png",
     "title": "Hobbit hole",
     "width": 1,
     "height": 1,
@@ -648,7 +648,7 @@
     "real_author": "Wogleslaw"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035720342994944/at_first_light.png",
+    "source": "paintings/at_first_light.png",
     "title": "At First Light on the Fifth Day",
     "width": 2,
     "height": 2,
@@ -656,7 +656,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035725988659210/black_southron_carpet.png",
+    "source": "paintings/black_southron_carpet.png",
     "title": "Black Southron Wall-Carpet",
     "width": 2,
     "height": 1,
@@ -664,7 +664,7 @@
     "real_author": "Karseius"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035731147784207/dorwinion_vineyard.png",
+    "source": "paintings/dorwinion_vineyard.png",
     "title": "Dorwinion Vineyard",
     "width": 2,
     "height": 1,
@@ -672,7 +672,7 @@
     "real_author": "Pinata"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035737241845780/everything_light_touches.png",
+    "source": "paintings/everything_light_touches.png",
     "title": "Everything the Light Touches",
     "width": 3,
     "height": 2,
@@ -680,7 +680,7 @@
     "real_author": "fearrippers"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035744456048640/fog_barrow_downs.png",
+    "source": "paintings/fog_barrow_downs.png",
     "title": "Fog on the Barrow-downs",
     "width": 3,
     "height": 2,
@@ -688,7 +688,7 @@
     "real_author": "paul673"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035751859257345/gladden_bank.png",
+    "source": "paintings/gladden_bank.png",
     "title": "GLadden Riverbank",
     "width": 1,
     "height": 1,
@@ -696,7 +696,7 @@
     "real_author": "Glaad1234"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035758813413409/heart_taur.png",
+    "source": "paintings/heart_taur.png",
     "title": "Heart of the Taurethrim",
     "width": 1,
     "height": 1,
@@ -704,7 +704,7 @@
     "real_author": "Tactics_Vanguard"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035765243150355/huntsman_tapestry.png",
+    "source": "paintings/huntsman_tapestry.png",
     "title": "Huntsman Tapestry",
     "width": 1,
     "height": 2,
@@ -712,7 +712,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035770737557514/lion_tapestry.png",
+    "source": "paintings/lion_tapestry.png",
     "title": "Lion Tapestry",
     "width": 1,
     "height": 1,
@@ -720,7 +720,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035776840400897/map_ered_nimrais.png",
+    "source": "paintings/map_ered_nimrais.png",
     "title": "Map of Ered Nimrais",
     "width": 2,
     "height": 1,
@@ -728,7 +728,7 @@
     "real_author": "Rocket Engineer"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035782263636032/mr_bilbo_trolls.png",
+    "source": "paintings/mr_bilbo_trolls.png",
     "title": "Mr. Bilbo's Trolls",
     "width": 3,
     "height": 2,
@@ -736,7 +736,7 @@
     "real_author": "fearrippers"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035787850317847/my_precious.png",
+    "source": "paintings/my_precious.png",
     "title": "My precious",
     "width": 2,
     "height": 2,
@@ -744,7 +744,7 @@
     "real_author": "Orchidcube"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035793864949760/old_mirkwood_road.png",
+    "source": "paintings/old_mirkwood_road.png",
     "title": "The Old Mirkwood Road",
     "width": 1,
     "height": 1,
@@ -752,7 +752,7 @@
     "real_author": "Arbiter"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035799221207051/red_southron_carpet.png",
+    "source": "paintings/red_southron_carpet.png",
     "title": "Red Southron Wall-Carpet",
     "width": 2,
     "height": 1,
@@ -760,7 +760,7 @@
     "real_author": "Karseius"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035805017866270/riddles_dark.png",
+    "source": "paintings/riddles_dark.png",
     "title": "Riddles in the Dark",
     "width": 2,
     "height": 1,
@@ -768,7 +768,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035810550022164/saruman.png",
+    "source": "paintings/saruman.png",
     "title": "Saruman",
     "width": 2,
     "height": 2,
@@ -776,7 +776,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035816086634522/smoke_break.png",
+    "source": "paintings/smoke_break.png",
     "title": "Smoke Break",
     "width": 2,
     "height": 2,
@@ -784,7 +784,7 @@
     "real_author": "OneEighth"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035822314913802/sunset_over_seas.png",
+    "source": "paintings/sunset_over_seas.png",
     "title": "Sunset over the Seas",
     "width": 2,
     "height": 1,
@@ -792,7 +792,7 @@
     "real_author": "Wogleslaw"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035827712983051/waters_awakening.png",
+    "source": "paintings/waters_awakening.png",
     "title": "Waters of Awakening",
     "width": 4,
     "height": 3,
@@ -800,7 +800,7 @@
     "real_author": "Adu"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035833304252426/woodmen_village.png",
+    "source": "paintings/woodmen_village.png",
     "title": "Woodman Village",
     "width": 2,
     "height": 1,
@@ -808,7 +808,7 @@
     "real_author": "Glaad1234"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626035908973690880/light_andrast.png",
+    "source": "paintings/light_andrast.png",
     "title": "A Light upon Andrast",
     "width": 3,
     "height": 2,
@@ -816,7 +816,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626063390812536850/harad_sunset.png",
+    "source": "paintings/harad_sunset.png",
     "title": "Harad Sunset",
     "width": 2,
     "height": 1,
@@ -824,7 +824,7 @@
     "real_author": "Oreo365"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626063395845832735/helms_deep_wall.png",
+    "source": "paintings/helms_deep_wall.png",
     "title": "Helm's Deep",
     "width": 2,
     "height": 1,
@@ -832,7 +832,7 @@
     "real_author": "Oreo365"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626077411355787307/taurethrim_glyph.png",
+    "source": "paintings/taurethrim_glyph.png",
     "title": "Taurethrim Glyph",
     "width": 1,
     "height": 1,
@@ -840,7 +840,7 @@
     "real_author": "BUNling"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626409390085242891/bear_carrock.png",
+    "source": "paintings/bear_carrock.png",
     "title": "Bear of the Carrock",
     "width": 1,
     "height": 2,
@@ -848,7 +848,7 @@
     "real_author": "LordOropher"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626409396812906508/chiefs_hunt.png",
+    "source": "paintings/chiefs_hunt.png",
     "title": "The Chief's Hunt",
     "width": 2,
     "height": 1,
@@ -856,7 +856,7 @@
     "real_author": "fearrippers"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626409401171050496/eagles_eyrie_autumn.png",
+    "source": "paintings/eagles_eyrie_autumn.png",
     "title": "Eagles' Eyrie in Autumn",
     "width": 3,
     "height": 2,
@@ -864,7 +864,7 @@
     "real_author": "Athelbert"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626409408649363458/easterling_tapestry.png",
+    "source": "paintings/easterling_tapestry.png",
     "title": "Easterling Tapestry",
     "width": 4,
     "height": 2,
@@ -872,7 +872,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626409413053251584/forochel_blues.png",
+    "source": "paintings/forochel_blues.png",
     "title": "Forochel Blues",
     "width": 1,
     "height": 1,
@@ -880,7 +880,7 @@
     "real_author": "InaneArtifact"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626409420712050698/i_am_no_man.png",
+    "source": "paintings/i_am_no_man.png",
     "title": "I am no Man!",
     "width": 3,
     "height": 2,
@@ -888,7 +888,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626409427146244120/mountains_east.png",
+    "source": "paintings/mountains_east.png",
     "title": "Mountains of the East",
     "width": 3,
     "height": 2,
@@ -896,7 +896,7 @@
     "real_author": "Athelbert"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626409432854822924/throne_mumakah.png",
+    "source": "paintings/throne_mumakah.png",
     "title": "Throne of Mûmakâh",
     "width": 2,
     "height": 2,
@@ -904,7 +904,7 @@
     "real_author": "BUNling"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/626409437518888960/trebuchet_construction.png",
+    "source": "paintings/trebuchet_construction.png",
     "title": "Trebuchet Construction",
     "width": 4,
     "height": 2,
@@ -912,7 +912,7 @@
     "real_author": "Wollibo"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956814222327817/balin.png",
+    "source": "paintings/balin.png",
     "title": "Balin",
     "width": 3,
     "height": 2,
@@ -920,7 +920,7 @@
     "real_author": "DragonBardic"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956820128038941/ballista_construction.png",
+    "source": "paintings/ballista_construction.png",
     "title": "Ballista Construction",
     "width": 2,
     "height": 2,
@@ -928,7 +928,7 @@
     "real_author": "Wollibo"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956826419494912/battle_five_armies.png",
+    "source": "paintings/battle_five_armies.png",
     "title": "The Battle of the Five Armies",
     "width": 4,
     "height": 2,
@@ -936,7 +936,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956833365000192/catapult_construction.png",
+    "source": "paintings/catapult_construction.png",
     "title": "Catapult Contruction",
     "width": 2,
     "height": 2,
@@ -944,7 +944,7 @@
     "real_author": "Wollibo"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956841447686144/desert_midnight.png",
+    "source": "paintings/desert_midnight.png",
     "title": "Desert Midnight",
     "width": 4,
     "height": 3,
@@ -952,7 +952,7 @@
     "real_author": "Athelbert"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956846963064855/durin_deathless.png",
+    "source": "paintings/durin_deathless.png",
     "title": "Durin the Deathless, King of Khazad-dûm",
     "width": 2,
     "height": 2,
@@ -960,7 +960,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956852155744266/durins_forge.png",
+    "source": "paintings/durins_forge.png",
     "title": "At the Forges of Durin",
     "width": 3,
     "height": 2,
@@ -968,7 +968,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956856249384988/eorl_celebrant.png",
+    "source": "paintings/eorl_celebrant.png",
     "title": "Earl the Young at Celebrant",
     "width": 3,
     "height": 4,
@@ -976,7 +976,7 @@
     "real_author": "DragonBardic"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956861982867456/fire_and_water.png",
+    "source": "paintings/fire_and_water.png",
     "title": "Fire and Water",
     "width": 5,
     "height": 3,
@@ -984,7 +984,7 @@
     "real_author": "Mopsi"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956865875181609/gilded_dwarven_tablet.png",
+    "source": "paintings/gilded_dwarven_tablet.png",
     "title": "Gilded Dwarven Tablet",
     "width": 2,
     "height": 1,
@@ -992,7 +992,7 @@
     "real_author": "fearrippers"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956871071793170/gimli.png",
+    "source": "paintings/gimli.png",
     "title": "Gimli, Son of Gloín",
     "width": 2,
     "height": 3,
@@ -1000,7 +1000,7 @@
     "real_author": "Wollibo"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956876411142171/gleams_in_darkness.png",
+    "source": "paintings/gleams_in_darkness.png",
     "title": "Gleams in the Darkness",
     "width": 1,
     "height": 1,
@@ -1008,7 +1008,7 @@
     "real_author": "Rocket Engineer"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956881729781779/gollum_redemption.png",
+    "source": "paintings/gollum_redemption.png",
     "title": "Gollum's Redemption",
     "width": 1,
     "height": 1,
@@ -1016,7 +1016,7 @@
     "real_author": "OneEighth"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956887060480001/here_be_dragons.png",
+    "source": "paintings/here_be_dragons.png",
     "title": "Here be Dragons",
     "width": 3,
     "height": 1,
@@ -1024,7 +1024,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956890067927061/hobbit_style_rug.png",
+    "source": "paintings/hobbit_style_rug.png",
     "title": "Hobbit-style Rug",
     "width": 2,
     "height": 1,
@@ -1032,7 +1032,7 @@
     "real_author": "Athelbert"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956896174833704/hobbit_wine_bottle.png",
+    "source": "paintings/hobbit_wine_bottle.png",
     "title": "Hobbit Wine Bottle",
     "width": 1,
     "height": 2,
@@ -1040,7 +1040,7 @@
     "real_author": "DragonBardic"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956899882598450/home_beneath_hill.png",
+    "source": "paintings/home_beneath_hill.png",
     "title": "A Home Beneath the Hill",
     "width": 3,
     "height": 3,
@@ -1048,7 +1048,7 @@
     "real_author": "Bernt99"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956904525692948/house_of_durin.png",
+    "source": "paintings/house_of_durin.png",
     "title": "House of Durin",
     "width": 2,
     "height": 3,
@@ -1056,7 +1056,7 @@
     "real_author": "DragonBardic"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956908472664144/invasion_rhovanion.png",
+    "source": "paintings/invasion_rhovanion.png",
     "title": "The Invasion of Rhovanion",
     "width": 3,
     "height": 1,
@@ -1064,7 +1064,7 @@
     "real_author": "dylanhugh"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956912599728159/ironspan.png",
+    "source": "paintings/ironspan.png",
     "title": "Ironspan: the heart of Ardunost",
     "width": 2,
     "height": 2,
@@ -1072,7 +1072,7 @@
     "real_author": "InaneArtifact"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956917385297920/laketown_burning.png",
+    "source": "paintings/laketown_burning.png",
     "title": "The Burning of Laketown",
     "width": 3,
     "height": 2,
@@ -1080,7 +1080,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956922166935552/map_gondor.png",
+    "source": "paintings/map_gondor.png",
     "title": "Map of Gondor",
     "width": 3,
     "height": 2,
@@ -1088,7 +1088,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956926365564980/no_shadow_can_touch.png",
+    "source": "paintings/no_shadow_can_touch.png",
     "title": "No Shadow Can Touch",
     "width": 3,
     "height": 2,
@@ -1096,7 +1096,7 @@
     "real_author": "Athelbert"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956930719252512/rhunost.png",
+    "source": "paintings/rhunost.png",
     "title": "Rhúnost",
     "width": 3,
     "height": 2,
@@ -1104,7 +1104,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956934883934234/royal_bird.png",
+    "source": "paintings/royal_bird.png",
     "title": "Royal Bird",
     "width": 1,
     "height": 1,
@@ -1112,7 +1112,7 @@
     "real_author": "LordOropher"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956938277126204/siege_tower_construction.png",
+    "source": "paintings/siege_tower_construction.png",
     "title": "Siege Tower Construction",
     "width": 2,
     "height": 3,
@@ -1120,7 +1120,7 @@
     "real_author": "Wollibo"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956942438137886/siege_tower_structure.png",
+    "source": "paintings/siege_tower_structure.png",
     "title": "Siege Tower Structure",
     "width": 2,
     "height": 3,
@@ -1128,7 +1128,7 @@
     "real_author": "Wollibo"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956946527453187/spirited_mearas.png",
+    "source": "paintings/spirited_mearas.png",
     "title": "Spirited Mearas Horse",
     "width": 3,
     "height": 5,
@@ -1136,7 +1136,7 @@
     "real_author": "DragonBardic"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956951208427580/thorin.png",
+    "source": "paintings/thorin.png",
     "title": "Thorin Oakenshield",
     "width": 3,
     "height": 2,
@@ -1144,7 +1144,7 @@
     "real_author": "DragonBardic"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956955226570762/unexpected_journey.png",
+    "source": "paintings/unexpected_journey.png",
     "title": "An Unexpected Journey",
     "width": 3,
     "height": 2,
@@ -1152,7 +1152,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956965670256717/zirakzigil.png",
+    "source": "paintings/zirakzigil.png",
     "title": "Zirakzigil",
     "width": 1,
     "height": 2,
@@ -1160,7 +1160,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/627956960955858974/wold.png",
+    "source": "paintings/wold.png",
     "title": "The Wold",
     "width": 2,
     "height": 1,
@@ -1168,7 +1168,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/629393753123323915/aragorn_king.png",
+    "source": "paintings/aragorn_king.png",
     "title": "Aragorn Elessar, King of Free Men",
     "width": 1,
     "height": 3,
@@ -1176,7 +1176,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/629393759066390540/call_of_gondor.png",
+    "source": "paintings/call_of_gondor.png",
     "title": "Call of Gondor",
     "width": 4,
     "height": 3,
@@ -1184,7 +1184,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/629393764401545245/dwarven_greeting_sign.png",
+    "source": "paintings/dwarven_greeting_sign.png",
     "title": "Dwarven Greeting Sign",
     "width": 2,
     "height": 1,
@@ -1192,7 +1192,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/629393769149497354/fall_grey_mountains.png",
+    "source": "paintings/fall_grey_mountains.png",
     "title": "The Fall of the Grey Mountains",
     "width": 2,
     "height": 1,
@@ -1200,7 +1200,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/629393775797600277/istari_arrive.png",
+    "source": "paintings/istari_arrive.png",
     "title": "The Istari Arrive",
     "width": 3,
     "height": 2,
@@ -1208,7 +1208,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/629393782407692335/night_to_remember.png",
+    "source": "paintings/night_to_remember.png",
     "title": "A Night to Remember",
     "width": 3,
     "height": 3,
@@ -1216,7 +1216,7 @@
     "real_author": "Bernt99"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/629393795771006976/people_of_the_wood.png",
+    "source": "paintings/people_of_the_wood.png",
     "title": "The People of the Wood",
     "width": 2,
     "height": 1,
@@ -1224,7 +1224,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/629393805195345920/remaking_narsil.png",
+    "source": "paintings/remaking_narsil.png",
     "title": "The Remaking of Narsil",
     "width": 3,
     "height": 2,
@@ -1232,7 +1232,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/629393811365298176/seven_dwarven_lords.png",
+    "source": "paintings/seven_dwarven_lords.png",
     "title": "The Seven Dwarven Lords and their Seven Rings of Power",
     "width": 3,
     "height": 2,
@@ -1240,7 +1240,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/629393818654998578/smithies_belegost.png",
+    "source": "paintings/smithies_belegost.png",
     "title": "The Smithies of Belegost",
     "width": 3,
     "height": 2,
@@ -1248,7 +1248,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/629393826771107860/table_thorin.png",
+    "source": "paintings/table_thorin.png",
     "title": "At the Table of Thorin Oakenshield, King under the Mountain",
     "width": 3,
     "height": 1,
@@ -1256,7 +1256,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/629393833943367710/white_walls.png",
+    "source": "paintings/white_walls.png",
     "title": "The White Walls",
     "width": 2,
     "height": 1,
@@ -1264,7 +1264,7 @@
     "real_author": "Garrarrat"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/629393892747247617/fingolfin_morgoth.png",
+    "source": "paintings/fingolfin_morgoth.png",
     "title": "Morgoth Duels Fingolfin",
     "width": 1,
     "height": 2,
@@ -1272,7 +1272,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/630481926033244209/balin_retakes_moria.png",
+    "source": "paintings/balin_retakes_moria.png",
     "title": "Balin, King of Moria",
     "width": 2,
     "height": 2,
@@ -1280,7 +1280,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/630481928218345482/eregion_ruin_sunrise.png",
+    "source": "paintings/eregion_ruin_sunrise.png",
     "title": "The Sun Rises Upon the Ruins of Eregion",
     "width": 3,
     "height": 2,
@@ -1288,7 +1288,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/630481929958981632/fall_ered_luin.png",
+    "source": "paintings/fall_ered_luin.png",
     "title": "The Fall of the Ered Luin",
     "width": 2,
     "height": 1,
@@ -1296,7 +1296,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/630481931930304549/fellowship.png",
+    "source": "paintings/fellowship.png",
     "title": "The Fellowship of the Ring",
     "width": 3,
     "height": 1,
@@ -1304,7 +1304,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/630481934010679296/gandalf_vs_balrog.png",
+    "source": "paintings/gandalf_vs_balrog.png",
     "title": "The Shadow Shall Not Avail You, Flame of Udûn!",
     "width": 2,
     "height": 3,
@@ -1312,7 +1312,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/630481935960899638/glorfindel_duel_balrog.png",
+    "source": "paintings/glorfindel_duel_balrog.png",
     "title": "Glorfindel the Golden Duelling a Balrog",
     "width": 2,
     "height": 3,
@@ -1320,7 +1320,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/630481938032885771/kinslaying.png",
+    "source": "paintings/kinslaying.png",
     "title": "The First Kinslaying upon the White Harbour",
     "width": 3,
     "height": 2,
@@ -1328,7 +1328,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/630481939144376341/lonely_mountain_goldbar.png",
+    "source": "paintings/lonely_mountain_goldbar.png",
     "title": "The Lonely Mountain",
     "width": 1,
     "height": 1,
@@ -1336,7 +1336,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/630481941208236053/pinnath_gelin.png",
+    "source": "paintings/pinnath_gelin.png",
     "title": "Fields of Pinnath Gelin",
     "width": 3,
     "height": 2,
@@ -1344,7 +1344,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/630481943120707625/red_mirk_oak.png",
+    "source": "paintings/red_mirk_oak.png",
     "title": "Red Mirk-Oak",
     "width": 1,
     "height": 2,
@@ -1352,7 +1352,7 @@
     "real_author": "Orsper"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/630481971981582338/shire_lands_fall.png",
+    "source": "paintings/shire_lands_fall.png",
     "title": "The Shire-Lands in Hall",
     "width": 2,
     "height": 1,
@@ -1360,7 +1360,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/630481982861737997/thorin_stands.png",
+    "source": "paintings/thorin_stands.png",
     "title": "And There He Stood, Wielding No More THan An Oaken Branch",
     "width": 3,
     "height": 2,
@@ -1368,7 +1368,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/630481987798433814/two_trees.png",
+    "source": "paintings/two_trees.png",
     "title": "The Two Trees of Valinor",
     "width": 2,
     "height": 2,
@@ -1376,7 +1376,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/630481993477652503/watch_anfalas.png",
+    "source": "paintings/watch_anfalas.png",
     "title": "Watch over Anfalas",
     "width": 3,
     "height": 2,
@@ -1384,7 +1384,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/630481998007500810/way_is_shut.png",
+    "source": "paintings/way_is_shut.png",
     "title": "The Way is Shut",
     "width": 1,
     "height": 1,
@@ -1392,7 +1392,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/631959167434752010/comfortable_solitude.png",
+    "source": "paintings/comfortable_solitude.png",
     "title": "Comfurtable Solitude",
     "width": 1,
     "height": 1,
@@ -1400,7 +1400,7 @@
     "real_author": "Rocket Engineer"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/631959171897753652/forgotten_road.png",
+    "source": "paintings/forgotten_road.png",
     "title": "Forgotten Road",
     "width": 3,
     "height": 2,
@@ -1408,7 +1408,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/631959175554924574/map_mordor.png",
+    "source": "paintings/map_mordor.png",
     "title": "Map of Mordor",
     "width": 2,
     "height": 2,
@@ -1416,7 +1416,7 @@
     "real_author": "Rocket Engineer"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/632969004759384085/isildur_sauron.png",
+    "source": "paintings/isildur_sauron.png",
     "title": "Sauron vs. Isildur",
     "width": 1,
     "height": 1,
@@ -1424,7 +1424,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/632969010555650048/north_khand_road.png",
+    "source": "paintings/north_khand_road.png",
     "title": "North Khand Road",
     "width": 4,
     "height": 2,
@@ -1432,7 +1432,7 @@
     "real_author": "EarthToEcho13"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928589983940649/cabin_woods.png",
+    "source": "paintings/cabin_woods.png",
     "title": "Cabin of the Woods",
     "width": 2,
     "height": 1,
@@ -1440,7 +1440,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928594371051553/cherry_tree.png",
+    "source": "paintings/cherry_tree.png",
     "title": "Cherry Tree",
     "width": 1,
     "height": 1,
@@ -1448,7 +1448,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928600176099358/death_of_rog.png",
+    "source": "paintings/death_of_rog.png",
     "title": "The Death of Rog, Hammer of Wrath",
     "width": 3,
     "height": 3,
@@ -1456,7 +1456,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928606777933829/fall_gondolin.png",
+    "source": "paintings/fall_gondolin.png",
     "title": "The Fall of Gondolin Fair",
     "width": 4,
     "height": 3,
@@ -1464,7 +1464,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928610892546069/feanor_final_stand.png",
+    "source": "paintings/feanor_final_stand.png",
     "title": "Final Stand of Fëanor",
     "width": 3,
     "height": 3,
@@ -1472,7 +1472,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928615317405713/first_rising_moon.png",
+    "source": "paintings/first_rising_moon.png",
     "title": "The First Rising of the Moon",
     "width": 1,
     "height": 1,
@@ -1480,7 +1480,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928620136923157/helms_deep_fortress.png",
+    "source": "paintings/helms_deep_fortress.png",
     "title": "Helm's Deep: Fortress of the Rohirrim",
     "width": 3,
     "height": 2,
@@ -1488,7 +1488,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928624507256856/mines_durins_folk.png",
+    "source": "paintings/mines_durins_folk.png",
     "title": "The Mines of Durin's Folk",
     "width": 2,
     "height": 1,
@@ -1496,7 +1496,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928633109643275/mountains_again_gandalf.png",
+    "source": "paintings/mountains_again_gandalf.png",
     "title": "I Want to See Mountains Again, Gandalf",
     "width": 3,
     "height": 2,
@@ -1504,7 +1504,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928637748543510/nandaro.png",
+    "source": "paintings/nandaro.png",
     "title": "Nandaro",
     "width": 1,
     "height": 2,
@@ -1512,7 +1512,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928641972207617/roses_by_water.png",
+    "source": "paintings/roses_by_water.png",
     "title": "Roses by the Water (mislabeled as Vow of Lossarnach)",
     "width": 1,
     "height": 1,
@@ -1520,7 +1520,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928647714471947/southern_treasures.png",
+    "source": "paintings/southern_treasures.png",
     "title": "Southern Treasures",
     "width": 1,
     "height": 2,
@@ -1528,7 +1528,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928653192101889/turin_slaying_worm.png",
+    "source": "paintings/turin_slaying_worm.png",
     "title": "Túrin and the Slaying of the Worm",
     "width": 1,
     "height": 2,
@@ -1536,7 +1536,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928657621155881/valacirca.png",
+    "source": "paintings/valacirca.png",
     "title": "Valacirya, the Sickle",
     "width": 2,
     "height": 1,
@@ -1544,7 +1544,7 @@
     "real_author": "Rocket Engineer"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928663879319552/vow_lossarnach.png",
+    "source": "paintings/vow_lossarnach.png",
     "title": "Vow of Lossarnach",
     "width": 3,
     "height": 2,
@@ -1552,7 +1552,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/635928667628896277/wealth_erebor.png",
+    "source": "paintings/wealth_erebor.png",
     "title": "The Wealth of Erebor",
     "width": 2,
     "height": 1,
@@ -1560,7 +1560,7 @@
     "real_author": "Goldbar22"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385902988623903/azanulbizar_the_dimrill_dale.png",
+    "source": "paintings/azanulbizar_the_dimrill_dale.png",
     "title": "Azanulbizar, the Dimrill Dale",
     "width": 5,
     "height": 4,
@@ -1568,7 +1568,7 @@
     "real_author": "InaneArtifact"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385906385879041/camel_tapestry.png",
+    "source": "paintings/camel_tapestry.png",
     "title": "Camel's Tapestry",
     "width": 3,
     "height": 2,
@@ -1576,7 +1576,7 @@
     "real_author": "Karseius"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385909980397599/cirith_ungol.png",
+    "source": "paintings/cirith_ungol.png",
     "title": "Cirith Ungol",
     "width": 1,
     "height": 1,
@@ -1584,7 +1584,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385913654870051/crocodiles_tapestry.png",
+    "source": "paintings/crocodiles_tapestry.png",
     "title": "Crocodile's Tapestry",
     "width": 3,
     "height": 2,
@@ -1592,7 +1592,7 @@
     "real_author": "Karseius"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385917211508756/deeping_wall.png",
+    "source": "paintings/deeping_wall.png",
     "title": "Deeping Wall",
     "width": 1,
     "height": 1,
@@ -1600,7 +1600,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385920512425985/doors_of_the_necromancer.png",
+    "source": "paintings/doors_of_the_necromancer.png",
     "title": "Doors of the Necormancer",
     "width": 1,
     "height": 2,
@@ -1608,7 +1608,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385924471848960/flamingo.png",
+    "source": "paintings/flamingo.png",
     "title": "Flamingo",
     "width": 1,
     "height": 2,
@@ -1616,7 +1616,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385927583891499/flowers_of_the_east.png",
+    "source": "paintings/flowers_of_the_east.png",
     "title": "Flowers of the East",
     "width": 3,
     "height": 2,
@@ -1624,7 +1624,7 @@
     "real_author": "EarthToEcho13"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385931908218910/frozen_wastes.png",
+    "source": "paintings/frozen_wastes.png",
     "title": "Frozen Wastes",
     "width": 2,
     "height": 2,
@@ -1632,7 +1632,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385934748024832/halifirien.png",
+    "source": "paintings/halifirien.png",
     "title": "Halifirien",
     "width": 2,
     "height": 1,
@@ -1640,7 +1640,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385945976045590/home_broadbeam.png",
+    "source": "paintings/home_broadbeam.png",
     "title": "Home of the Broadbeams",
     "width": 2,
     "height": 1,
@@ -1648,7 +1648,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385952204587035/lions_tapestry.png",
+    "source": "paintings/lions_tapestry.png",
     "title": "Lion's Tapestry",
     "width": 3,
     "height": 2,
@@ -1656,7 +1656,7 @@
     "real_author": "Karseius"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385956671651840/lower_your_axe",
+    "source": "paintings/lower_your_axe",
     "title": "Lower your Axe",
     "width": 2,
     "height": 1,
@@ -1664,7 +1664,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385961993961482/mount_dolmed.png",
+    "source": "paintings/mount_dolmed.png",
     "title": "Mount Dolmed",
     "width": 2,
     "height": 2,
@@ -1672,7 +1672,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385967123726336/mumaks_tapestry.png",
+    "source": "paintings/mumaks_tapestry.png",
     "title": "Mûmak's Tapestry",
     "width": 3,
     "height": 2,
@@ -1680,7 +1680,7 @@
     "real_author": "Karseius"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385972580515850/peacocks_tapestry.png",
+    "source": "paintings/peacocks_tapestry.png",
     "title": "Peacock's Tapestry",
     "width": 3,
     "height": 2,
@@ -1688,7 +1688,7 @@
     "real_author": "Karseius"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385977693503498/poisoned_vale.png",
+    "source": "paintings/poisoned_vale.png",
     "title": "Poisoned Value",
     "width": 1,
     "height": 1,
@@ -1696,7 +1696,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385982579605525/sails_pelargir.png",
+    "source": "paintings/sails_pelargir.png",
     "title": "Sails of Pelargir",
     "width": 3,
     "height": 2,
@@ -1704,7 +1704,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385988028006410/serpents_tapestry.png",
+    "source": "paintings/serpents_tapestry.png",
     "title": "Serpent's Tapestry",
     "width": 3,
     "height": 2,
@@ -1712,7 +1712,7 @@
     "real_author": "Karseius"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385993547710480/storm_brewing.png",
+    "source": "paintings/storm_brewing.png",
     "title": "Storm's a Brewin'",
     "width": 2,
     "height": 1,
@@ -1720,7 +1720,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648385998685732885/swan_of_dol_amroth.png",
+    "source": "paintings/swan_of_dol_amroth.png",
     "title": "Swan of Dol Amroth",
     "width": 3,
     "height": 3,
@@ -1728,7 +1728,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648386004478197760/the_shire.png",
+    "source": "paintings/the_shire.png",
     "title": "The Shire",
     "width": 2,
     "height": 2,
@@ -1736,7 +1736,7 @@
     "real_author": "HalflingPrincess"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/648386011503525908/tol_morwen.png",
+    "source": "paintings/tol_morwen.png",
     "title": "Tol Morwen",
     "width": 2,
     "height": 1,
@@ -1744,7 +1744,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/683539308279496745/barmelui.png",
+    "source": "paintings/barmelui.png",
     "title": "Bar Melui",
     "width": 1,
     "height": 2,
@@ -1752,7 +1752,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/683539311727083524/blueskies.png",
+    "source": "paintings/blueskies.png",
     "title": "Clear Blue Skies",
     "width": 1,
     "height": 1,
@@ -1760,7 +1760,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/683539318169403452/bree.png",
+    "source": "paintings/bree.png",
     "title": "The Settlement of Men",
     "width": 2,
     "height": 1,
@@ -1768,7 +1768,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/683539322859028506/calltomordor.png",
+    "source": "paintings/calltomordor.png",
     "title": "The Call of Mordor",
     "width": 2,
     "height": 3,
@@ -1776,7 +1776,7 @@
     "real_author": "Artemis_Entrerni"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/683539329028456473/elostrion.png",
+    "source": "paintings/elostrion.png",
     "title": "The White Towers",
     "width": 2,
     "height": 1,
@@ -1784,7 +1784,7 @@
     "real_author": "Carnifindion"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/683539335148208166/foolsgold.png",
+    "source": "paintings/foolsgold.png",
     "title": "Foold's Gold",
     "width": 5,
     "height": 3,
@@ -1792,7 +1792,7 @@
     "real_author": "Mopsi"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/683539339673862144/isengard.png",
+    "source": "paintings/isengard.png",
     "title": "Isengard",
     "width": 1,
     "height": 1,
@@ -1800,7 +1800,7 @@
     "real_author": "Carnifindion"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/683539344677404672/lookabout.png",
+    "source": "paintings/lookabout.png",
     "title": "A Look About",
     "width": 3,
     "height": 2,
@@ -1808,7 +1808,7 @@
     "real_author": "Fuzzycryptid"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/683539355280998427/manwevarda.png",
+    "source": "paintings/manwevarda.png",
     "title": "Manwë & Varda",
     "width": 2,
     "height": 2,
@@ -1816,7 +1816,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/683539359269388338/morgothcrown.png",
+    "source": "paintings/morgothcrown.png",
     "title": "Morgoth's Crown",
     "width": 1,
     "height": 1,
@@ -1824,7 +1824,7 @@
     "real_author": "OneBehindTheHair"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/683539363593715853/numenordawn.png",
+    "source": "paintings/numenordawn.png",
     "title": "Númenor Triptych - Dawn",
     "width": 2,
     "height": 3,
@@ -1832,7 +1832,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/683539367817773090/numenorfall.png",
+    "source": "paintings/numenorfall.png",
     "title": "Númenor Triptych - Fall",
     "width": 2,
     "height": 3,
@@ -1840,7 +1840,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/683539372104220674/numenorsplendor.png",
+    "source": "paintings/numenorsplendor.png",
     "title": "Númenor Triptych - Splendor",
     "width": 3,
     "height": 3,
@@ -1848,7 +1848,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/683539376172826656/whitecity.png",
+    "source": "paintings/whitecity.png",
     "title": "The White City",
     "width": 6,
     "height": 3,
@@ -1856,7 +1856,7 @@
     "real_author": "Imrazôr"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/683539380484308997/yule.png",
+    "source": "paintings/yule.png",
     "title": "Yule Night in Forochel",
     "width": 2,
     "height": 1,
@@ -1864,7 +1864,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887218890571816/Aragorns_Grave.png",
+    "source": "paintings/Aragorns_Grave.png",
     "title": "Tomb of King Elessar",
     "width": 2,
     "height": 1,
@@ -1872,7 +1872,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887221692235826/dark_lake.png",
+    "source": "paintings/dark_lake.png",
     "title": "Night Water",
     "width": 2,
     "height": 1,
@@ -1880,7 +1880,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887224083120199/Fair_Lebennin.png",
+    "source": "paintings/Fair_Lebennin.png",
     "title": "Fair Lebennin",
     "width": 2,
     "height": 3,
@@ -1888,7 +1888,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887226331136030/Fangorn_Forest.png",
+    "source": "paintings/Fangorn_Forest.png",
     "title": "Fangorn Forest",
     "width": 6,
     "height": 4,
@@ -1896,7 +1896,7 @@
     "real_author": "InaneArtifact"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887228910633021/Forth_Eorlingas.png",
+    "source": "paintings/Forth_Eorlingas.png",
     "title": "Forth Eorlingas",
     "width": 2,
     "height": 1,
@@ -1904,7 +1904,7 @@
     "real_author": "Gandalf the Turquoise"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887231276220477/fred.png",
+    "source": "paintings/fred.png",
     "title": "The Founding of Moria",
     "width": 2,
     "height": 1,
@@ -1912,7 +1912,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887233851523152/Gandalf.png",
+    "source": "paintings/Gandalf.png",
     "title": "The Gray Wanderer/The Grey Wanderer",
     "width": 2,
     "height": 2,
@@ -1920,7 +1920,7 @@
     "real_author": "Berothien Haerion"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887236045013093/generic_king.png",
+    "source": "paintings/generic_king.png",
     "title": "Portrait of an unknown King",
     "width": 2,
     "height": 3,
@@ -1928,7 +1928,7 @@
     "real_author": "Mopsi"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887238645481502/Nan_Laur.png",
+    "source": "paintings/Nan_Laur.png",
     "title": "Nan Laur",
     "width": 3,
     "height": 4,
@@ -1936,7 +1936,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887241032171550/orc.png",
+    "source": "paintings/orc.png",
     "title": "Goblin in the Night",
     "width": 1,
     "height": 1,
@@ -1944,7 +1944,7 @@
     "real_author": "LordOropher"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887268693475368/Sun_Carpet.png",
+    "source": "paintings/Sun_Carpet.png",
     "title": "The Sun of Celebrant Wall-Carpet",
     "width": 3,
     "height": 2,
@@ -1952,7 +1952,7 @@
     "real_author": "InaneArtifact"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887275886706728/swanhaven.png",
+    "source": "paintings/swanhaven.png",
     "title": "Swan Haven",
     "width": 1,
     "height": 2,
@@ -1960,7 +1960,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887281796612096/The_Beacons_are_Lit.png",
+    "source": "paintings/The_Beacons_are_Lit.png",
     "title": "The Beacons are Lit",
     "width": 2,
     "height": 1,
@@ -1968,7 +1968,7 @@
     "real_author": "Gandalf the Turquoise"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887288339726336/Thuringwethil.png",
+    "source": "paintings/Thuringwethil.png",
     "title": "Thuringwethil",
     "width": 3,
     "height": 4,
@@ -1976,7 +1976,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887294089986099/Tom_Bombadil.png",
+    "source": "paintings/Tom_Bombadil.png",
     "title": "Jolly Tom",
     "width": 1,
     "height": 2,
@@ -1984,7 +1984,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887418782449674/recipe.png",
+    "source": "paintings/recipe.png",
     "title": "Granny's Secret Recipe",
     "width": 1,
     "height": 2,
@@ -1992,7 +1992,7 @@
     "real_author": "Flare"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/717887504149381160/Rohan_had_come_at_last.png",
+    "source": "paintings/Rohan_had_come_at_last.png",
     "title": "Rohan Had Come at Last",
     "width": 4,
     "height": 2,
@@ -2000,7 +2000,7 @@
     "real_author": "Gandalf the Turquoise"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363589358157864/arken.png",
+    "source": "paintings/arken.png",
     "title": "Etched Erebor Carving",
     "width": 1,
     "height": 2,
@@ -2008,7 +2008,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363592335982712/Colors_of_the_sand.png",
+    "source": "paintings/Colors_of_the_sand.png",
     "title": "Colours of the Sand/ Colors of the Sand",
     "width": 2,
     "height": 2,
@@ -2016,7 +2016,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363596022906981/Dunland_Landscape.png",
+    "source": "paintings/Dunland_Landscape.png",
     "title": "Dunland Landscape",
     "width": 4,
     "height": 3,
@@ -2024,7 +2024,7 @@
     "real_author": "hypno05"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363601928486991/dwarf_carving.png",
+    "source": "paintings/dwarf_carving.png",
     "title": "Durin's Folk Carving",
     "width": 1,
     "height": 2,
@@ -2032,7 +2032,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363607578214430/edoras.png",
+    "source": "paintings/edoras.png",
     "title": "Court of the Mark",
     "width": 3,
     "height": 2,
@@ -2040,7 +2040,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363615413174282/eorl.png",
+    "source": "paintings/eorl.png",
     "title": "Earl the Young at Celebrant",
     "width": 3,
     "height": 3,
@@ -2048,7 +2048,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363622933430412/Finarfin.png",
+    "source": "paintings/Finarfin.png",
     "title": "Finarfin's Device",
     "width": 1,
     "height": 1,
@@ -2056,7 +2056,7 @@
     "real_author": "Orneno"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363630747418675/Fingolfin.png",
+    "source": "paintings/Fingolfin.png",
     "title": "Fingolfin's Device",
     "width": 1,
     "height": 1,
@@ -2064,7 +2064,7 @@
     "real_author": "Orneno"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363637814820934/Finwe.png",
+    "source": "paintings/Finwe.png",
     "title": "Finwë's Device",
     "width": 1,
     "height": 1,
@@ -2072,7 +2072,7 @@
     "real_author": "Orneno"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363644764913834/Galadriels_Mirror.png",
+    "source": "paintings/Galadriels_Mirror.png",
     "title": "Galadriel's Mirror",
     "width": 1,
     "height": 2,
@@ -2080,7 +2080,7 @@
     "real_author": "Carnifindion"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363651807150191/gandalf_escape.png",
+    "source": "paintings/gandalf_escape.png",
     "title": "Escape from Orthanc",
     "width": 2,
     "height": 1,
@@ -2088,7 +2088,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363659130536046/Gil-galad.png",
+    "source": "paintings/Gil-galad.png",
     "title": "Gil-Galad's Device",
     "width": 1,
     "height": 1,
@@ -2096,7 +2096,7 @@
     "real_author": "Orneno"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363666512380006/Ring_in_Snow.png",
+    "source": "paintings/Ring_in_Snow.png",
     "title": "So small a thing",
     "width": 2,
     "height": 2,
@@ -2104,7 +2104,7 @@
     "real_author": "ThePieOflyfe"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363673806405784/riv_day.png",
+    "source": "paintings/riv_day.png",
     "title": "Rivendell at Day",
     "width": 3,
     "height": 4,
@@ -2112,7 +2112,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363679451676723/riv_night.png",
+    "source": "paintings/riv_night.png",
     "title": "Rivendell at Night",
     "width": 3,
     "height": 4,
@@ -2120,7 +2120,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363686313558096/Rock_painting_small.png",
+    "source": "paintings/Rock_painting_small.png",
     "title": "Hunter's Rock Painting",
     "width": 2,
     "height": 1,
@@ -2128,7 +2128,7 @@
     "real_author": "NylaOfArda"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363701383823481/Turgon.png",
+    "source": "paintings/Turgon.png",
     "title": "Turgon's Device",
     "width": 1,
     "height": 1,
@@ -2136,7 +2136,7 @@
     "real_author": "Orneno"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363707721416784/Wolves_and_Crebain.png",
+    "source": "paintings/Wolves_and_Crebain.png",
     "title": "Wolves and Crebain",
     "width": 3,
     "height": 2,
@@ -2144,7 +2144,7 @@
     "real_author": "hypno05"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757363713161560088/Wulf.png",
+    "source": "paintings/Wulf.png",
     "title": "King Wulf at Meduseld",
     "width": 3,
     "height": 2,
@@ -2152,7 +2152,7 @@
     "real_author": "hypno05"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757369694830198842/mammoth.png",
+    "source": "paintings/mammoth.png",
     "title": "Mammoth Cave Painting",
     "width": 1,
     "height": 1,
@@ -2160,7 +2160,7 @@
     "real_author": "Noloite"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/757379934078500984/SpyingEyes.png",
+    "source": "paintings/SpyingEyes.png",
     "title": "Prying Eyes",
     "width": 2,
     "height": 2,
@@ -2168,7 +2168,7 @@
     "real_author": "Lawnmower"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/771937628228288532/autumnal.png",
+    "source": "paintings/autumnal.png",
     "title": "Hobbit Autumnal Decoration",
     "width": 1,
     "height": 1,
@@ -2176,7 +2176,7 @@
     "real_author": "post_it_notes"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/771937632217333810/blood_and_wine.png",
+    "source": "paintings/blood_and_wine.png",
     "title": "Blood and Wine",
     "width": 2,
     "height": 1,
@@ -2184,7 +2184,7 @@
     "real_author": "AltHenry"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/771937636809834526/Burzum.png",
+    "source": "paintings/Burzum.png",
     "title": "Burzum",
     "width": 1,
     "height": 2,
@@ -2192,7 +2192,7 @@
     "real_author": "Carnifindion"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/771937640752087040/earendil.png",
+    "source": "paintings/earendil.png",
     "title": "Earendil's Device",
     "width": 1,
     "height": 1,
@@ -2200,7 +2200,7 @@
     "real_author": "RapizSK"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/771937644287623178/Horse_Skull.png",
+    "source": "paintings/Horse_Skull.png",
     "title": "Horse Skull",
     "width": 1,
     "height": 1,
@@ -2208,7 +2208,7 @@
     "real_author": "hypno05"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886490974472273930/balrog_east.png",
+    "source": "paintings/balrog_east.png",
     "title": "Fiery Folklore",
     "width": 1,
     "height": 2,
@@ -2216,7 +2216,7 @@
     "real_author": "Lawnmower"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886490979295719434/barliman.png",
+    "source": "paintings/barliman.png",
     "title": "Barliman Butterbur",
     "width": 1,
     "height": 1,
@@ -2224,7 +2224,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886490984194666536/cirith_gorgor.png",
+    "source": "paintings/cirith_gorgor.png",
     "title": "Cirith Gorgor",
     "width": 3,
     "height": 2,
@@ -2232,7 +2232,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886490990200893500/dale_calling.png",
+    "source": "paintings/dale_calling.png",
     "title": "Dale Calling",
     "width": 4,
     "height": 2,
@@ -2240,7 +2240,7 @@
     "real_author": "AltHenry"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886490996039360522/dwarven_inscription.png",
+    "source": "paintings/dwarven_inscription.png",
     "title": "Dwarven Inscription",
     "width": 1,
     "height": 2,
@@ -2248,7 +2248,7 @@
     "real_author": "hypno05"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491031137288202/east_sunrise.png",
+    "source": "paintings/east_sunrise.png",
     "title": "Eastern Sunrise",
     "width": 1,
     "height": 1,
@@ -2256,7 +2256,7 @@
     "real_author": "Lawnmower"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491035612631070/faded_splendour.png",
+    "source": "paintings/faded_splendour.png",
     "title": "Faded Splendour",
     "width": 2,
     "height": 1,
@@ -2264,7 +2264,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491040524148756/forge_belegost.png",
+    "source": "paintings/forge_belegost.png",
     "title": "The Forges of Belegost",
     "width": 2,
     "height": 2,
@@ -2272,7 +2272,7 @@
     "real_author": "Gondhir"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491044718477322/frozen_wastes2.png",
+    "source": "paintings/frozen_wastes2.png",
     "title": "Frozen Wastes 2.0",
     "width": 2,
     "height": 2,
@@ -2280,7 +2280,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491049961332766/gift_of_the_dwarven_king.png",
+    "source": "paintings/gift_of_the_dwarven_king.png",
     "title": "Gift of the Dwarven King",
     "width": 2,
     "height": 2,
@@ -2288,7 +2288,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491054981935114/hide_croc.png",
+    "source": "paintings/hide_croc.png",
     "title": "Crocodile Hide",
     "width": 3,
     "height": 2,
@@ -2296,7 +2296,7 @@
     "real_author": "AltHenry"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491059994103850/hide_zebra.png",
+    "source": "paintings/hide_zebra.png",
     "title": "Zebra Hide",
     "width": 3,
     "height": 2,
@@ -2304,7 +2304,7 @@
     "real_author": "AltHenry"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491065404780554/host_of_mordor.png",
+    "source": "paintings/host_of_mordor.png",
     "title": "Hosts of Mordor",
     "width": 2,
     "height": 2,
@@ -2312,7 +2312,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491070660218910/journey_of_vingilot.png",
+    "source": "paintings/journey_of_vingilot.png",
     "title": "Journey of the Vingilot",
     "width": 3,
     "height": 4,
@@ -2320,7 +2320,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491074913243156/jungle_temple.png",
+    "source": "paintings/jungle_temple.png",
     "title": "Jungle Temple",
     "width": 1,
     "height": 2,
@@ -2328,7 +2328,7 @@
     "real_author": "CrownJewel162"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491113018511360/minas_morgul.png",
+    "source": "paintings/minas_morgul.png",
     "title": "Minas Morgul",
     "width": 3,
     "height": 2,
@@ -2336,7 +2336,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491117393174548/northern_kingdom.png",
+    "source": "paintings/northern_kingdom.png",
     "title": "The Northern Kingdom",
     "width": 2,
     "height": 1,
@@ -2344,7 +2344,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491123491676171/noticeboard.png",
+    "source": "paintings/noticeboard.png",
     "title": "Notice Board",
     "width": 3,
     "height": 2,
@@ -2352,7 +2352,7 @@
     "real_author": "AltHenry"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491129195933736/numenna.png",
+    "source": "paintings/numenna.png",
     "title": "Númenna",
     "width": 3,
     "height": 2,
@@ -2360,7 +2360,7 @@
     "real_author": "Orneno"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491134199758939/ondorene.png",
+    "source": "paintings/ondorene.png",
     "title": "Ondorénë",
     "width": 3,
     "height": 2,
@@ -2368,7 +2368,7 @@
     "real_author": "Orneno"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491139719446579/pelt_black.png",
+    "source": "paintings/pelt_black.png",
     "title": "Black Pelt",
     "width": 3,
     "height": 2,
@@ -2376,7 +2376,7 @@
     "real_author": "AltHenry"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491144312209469/pelt_brown.png",
+    "source": "paintings/pelt_brown.png",
     "title": "Brown Pelt",
     "width": 3,
     "height": 2,
@@ -2384,7 +2384,7 @@
     "real_author": "AltHenry"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491149571866634/pelt_giraffe.png",
+    "source": "paintings/pelt_giraffe.png",
     "title": "Giraffe Pelt",
     "width": 3,
     "height": 2,
@@ -2392,7 +2392,7 @@
     "real_author": "AltHenry"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491154567278622/pelt_gray.png",
+    "source": "paintings/pelt_gray.png",
     "title": "Gray Pelt",
     "width": 3,
     "height": 2,
@@ -2400,7 +2400,7 @@
     "real_author": "AltHenry"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491159915020338/pelt_white.png",
+    "source": "paintings/pelt_white.png",
     "title": "White Pelt",
     "width": 3,
     "height": 2,
@@ -2408,7 +2408,7 @@
     "real_author": "AltHenry"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491195889561600/pillar_ruin.png",
+    "source": "paintings/pillar_ruin.png",
     "title": "Old Pillar",
     "width": 1,
     "height": 2,
@@ -2416,7 +2416,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491199941247006/silmarils.png",
+    "source": "paintings/silmarils.png",
     "title": "The Device of the Silmarils",
     "width": 1,
     "height": 1,
@@ -2424,7 +2424,7 @@
     "real_author": "RapizSK"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491204513067028/standoff.png",
+    "source": "paintings/standoff.png",
     "title": "Standoff",
     "width": 4,
     "height": 2,
@@ -2432,7 +2432,7 @@
     "real_author": "AltHenry"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491209072263189/stoneware1.png",
+    "source": "paintings/stoneware1.png",
     "title": "Stoneware Clutter 1",
     "width": 2,
     "height": 1,
@@ -2440,7 +2440,7 @@
     "real_author": "AltHenry"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491214348681266/stoneware2.png",
+    "source": "paintings/stoneware2.png",
     "title": "Stoneware Clutter 2",
     "width": 2,
     "height": 1,
@@ -2448,7 +2448,7 @@
     "real_author": "AltHenry"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491219700625498/swordsman_sky.png",
+    "source": "paintings/swordsman_sky.png",
     "title": "The Swordsman of the Sky",
     "width": 3,
     "height": 2,
@@ -2456,7 +2456,7 @@
     "real_author": "NukeRubberDucky"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491224440193024/vaires_thread.png",
+    "source": "paintings/vaires_thread.png",
     "title": "Vaire's Thread",
     "width": 2,
     "height": 3,
@@ -2464,7 +2464,7 @@
     "real_author": "Corij"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/886491229536268328/woodmen.png",
+    "source": "paintings/woodmen.png",
     "title": "Men of Mirkwood",
     "width": 2,
     "height": 1,
@@ -2472,7 +2472,7 @@
     "real_author": "Rumil"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/1031290658532626482/azuremountains.png",
+    "source": "paintings/azuremountains.png",
     "title": "Azure mountains of the West",
     "width": 2,
     "height": 1,
@@ -2480,7 +2480,7 @@
     "real_author": "Marcobelva"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/1031290658868170782/circleofstones.png",
+    "source": "paintings/circleofstones.png",
     "title": "Circle of Stones",
     "width": 3,
     "height": 1,
@@ -2488,7 +2488,7 @@
     "real_author": "Wibbly"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/1031290659207913503/Crown_of_Stars.png",
+    "source": "paintings/Crown_of_Stars.png",
     "title": "Crown of Stars",
     "width": 4,
     "height": 2,
@@ -2496,7 +2496,7 @@
     "real_author": "NylaOfArda"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/1031290659551842445/dwarfportrait.png",
+    "source": "paintings/dwarfportrait.png",
     "title": "Portrait of a Forgotten Warrior",
     "width": 2,
     "height": 2,
@@ -2504,7 +2504,7 @@
     "real_author": "Marcobelva"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/1031290662521409617/Glory_of_Shamiir.png",
+    "source": "paintings/Glory_of_Shamiir.png",
     "title": "Glory of Shamiir",
     "width": 4,
     "height": 3,
@@ -2512,7 +2512,7 @@
     "real_author": "hypno05"
   },
   {
-    "source": "https://cdn.discordapp.com/attachments/624685467488485376/1031290662877929583/lonelyelf.png",
+    "source": "paintings/lonelyelf.png",
     "title": "Lonely Elf by a Campfire",
     "width": 3,
     "height": 5,
