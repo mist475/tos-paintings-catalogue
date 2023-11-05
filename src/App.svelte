@@ -1,17 +1,18 @@
 <script>
   import Table from "./lib/Table.svelte";
-  import Sortbar from "./lib/sortbar.svelte";
+  import OptionBar from "./lib/OptionBar.svelte";
 
   async function getPaintings() {
     let jsonFile = await fetch("./paintings.json");
-    let json = await jsonFile.json();
-
-
-
-    return json;
+    return await jsonFile.json();
   }
 
   let promise = getPaintings();
+
+  let p = 'MyName'
+  $: data = p.toLowerCase()
+
+  console.log(data)
 </script>
 
 <main class="w-full">
@@ -21,8 +22,8 @@
     </div>
   {:then paintings}
     <div class="p-6">
-      <Sortbar/>
-      <Table {paintings} />
+      <OptionBar bind:title={p}/>
+      <Table paintings={paintings} filter={data} />
     </div>
   {/await}
 </main>
