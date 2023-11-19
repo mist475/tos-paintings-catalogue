@@ -5,7 +5,6 @@
   export let filter;
   export let field;
 
-  
   let displayed_paintings = paintings;
   $: displayed_paintings = paintings_filter(paintings, filter, field);
 
@@ -38,11 +37,11 @@
 
     return paintings.filter((painting) => {
       //Show complete list if nothing entered
-      if (filter == undefined | filter == '') {
+      if ((filter == undefined) | (filter == "")) {
         return true;
       }
 
-      // Prevent type error 
+      // Prevent type error
       if (field !== "width" && field !== "height") {
         return painting[field].toLowerCase().includes(filter.toLowerCase());
       } else {
@@ -55,57 +54,89 @@
   sort_function("title");
 </script>
 
-<table class="w-full table-auto">
-  <thead>
-    <tr>
-      <th class="">Painting</th>
-      <th
-        class=""
-        on:click={() => {
-          sort_function("title", true);
-          sort_direction *= -1;
-        }}>Title</th
-      >
-      <th
-        class="text-center"
-        on:click={() => {
-          sort_function("width");
-          sort_direction *= -1;
-        }}>Width</th
-      >
-      <th
-        class=""
-        on:click={() => {
-          sort_function("height");
-          sort_direction *= -1;
-        }}>Height</th
-      >
-      <th
-        class=""
-        on:click={() => {
-          sort_function("lore_author", true);
-          sort_direction *= -1;
-        }}>Lore author</th
-      >
-      <th
-        class=""
-        on:click={() => {
-          sort_function("real_author", true);
-          sort_direction *= -1;
-        }}>Real author</th
-      >
-    </tr>
-  </thead>
-  <tbody>
-    {#each displayed_paintings as painting}
-      <tr>
-        <td><img src={painting.source} alt="" /></td>
-        <td>{painting.title}</td>
-        <td>{painting.width}</td>
-        <td>{painting.height}</td>
-        <td>{painting.lore_author}</td>
-        <td>{painting.real_author}</td>
-      </tr>
-    {/each}
-  </tbody>
-</table>
+<div class="grid grid-cols-1">
+  <div class="lg:grid grid-cols-6 hidden gap-3 p-2">
+    <div class=" font-semibold">Painting</div>
+    <!-- svelte-ignore a11y-no-static-element-interactions -->
+    <!-- svelte-ignore a11y-click-events-have-key-events -->
+    <div
+      class="font-semibold"
+      on:click={() => {
+        sort_function("title", true);
+        sort_direction *= -1;
+      }}
+    > 
+      Title
+    </div>
+    <!-- svelte-ignore a11y-no-static-element-interactions -->
+    <!-- svelte-ignore a11y-click-events-have-key-events -->
+    <div
+      class="text-center font-semibold"
+      on:click={() => {
+        sort_function("width");
+        sort_direction *= -1;
+      }}
+    >
+      Width
+    </div>
+    <!-- svelte-ignore a11y-no-static-element-interactions -->
+    <!-- svelte-ignore a11y-click-events-have-key-events -->
+    <div
+      class=" font-semibold text-center"
+      on:click={() => {
+        sort_function("height");
+        sort_direction *= -1;
+      }}
+    >
+      Height
+    </div>
+    <!-- svelte-ignore a11y-no-static-element-interactions -->
+    <!-- svelte-ignore a11y-click-events-have-key-events -->
+    <div
+      class="font-semibold"
+      on:click={() => {
+        sort_function("lore_author", true);
+        sort_direction *= -1;
+      }}
+    >
+      Lore author
+    </div>
+    <!-- svelte-ignore a11y-no-static-element-interactions -->
+    <!-- svelte-ignore a11y-click-events-have-key-events -->
+    <div
+      class="font-semibold"
+      on:click={() => {
+        sort_function("real_author", true);
+        sort_direction *= -1;
+      }}
+    >
+      Real author
+    </div>
+  </div>
+
+  {#each displayed_paintings as painting}
+    <div class="grid lg:grid-cols-6 gap-3 grid-cols-1">
+      <div><img src={painting.source} alt="" /></div>
+      <div>
+        <div class="lg:hidden inline font-semibold">title:</div>
+        {painting.title}
+      </div>
+      <div class="lg:text-center">
+        <div class="lg:hidden inline font-semibold">width:</div>
+        {painting.width}
+      </div>
+      <div class="lg:text-center">
+        <div class="lg:hidden inline font-semibold">height:</div>
+        {painting.height}
+      </div>
+      <div>
+        <div class="lg:hidden inline font-semibold">lore author:</div>
+        {painting.lore_author}
+      </div>
+      <div>
+        <div class="lg:hidden inline font-semibold">real author:</div>
+        {painting.real_author}
+      </div>
+    </div>
+  {/each}
+</div>
