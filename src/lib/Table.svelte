@@ -33,21 +33,27 @@
   }
 
   function paintings_filter(paintings, filter, field) {
-    console.log([filter, field]);
-
+    let normalizedFilter = normalize_string(filter);
     return paintings.filter((painting) => {
       //Show complete list if nothing entered
-      if ((filter == undefined) | (filter == "")) {
+      if (normalizedFilter == undefined || normalizedFilter == '') {
         return true;
       }
-
       // Prevent type error
       if (field !== "width" && field !== "height") {
-        return painting[field].toLowerCase().includes(filter.toLowerCase());
+        return normalize_string(painting[field]).toLowerCase().includes(normalizedFilter.toLowerCase());
       } else {
-        return painting[field] == filter;
+        return painting[field] == normalizedFilter;
       }
     });
+  }
+
+  /**
+   * Remove diacritics to make searching easier
+   * Adapted from stackoverflow: https://stackoverflow.com/a/51874002
+   */
+  function normalize_string(input) {
+    return input.normalize('NFD').replace(/\p{Diacritic}/gu, '');
   }
 
   //Sort list on title
