@@ -1,0 +1,2522 @@
+[
+  {
+    "source": "paintings/argonath.png",
+    "title": "The Argonath",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Dervorin Dorthalion",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/barrow_downs.png",
+    "title": "The Barrow-Downs",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Arbiter",
+    "real_author": "Arbiter"
+  },
+  {
+    "source": "paintings/black_rider.png",
+    "title": "Black Rider",
+    "width": 1,
+    "height": 2,
+    "lore_author": "OneBehindTheHair",
+    "real_author": "OneBehindTheHair"
+  },
+  {
+    "source": "paintings/brown_wizard.png",
+    "title": "The Brown Wizard",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Wibbles",
+    "real_author": "WibblyWolf"
+  },
+  {
+    "source": "paintings/bywater_lake.png",
+    "title": "Bywater by the Lake",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Gondibald Bolger",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/cherry_blossoms.png",
+    "title": "Cherry Blossoms",
+    "width": 2,
+    "height": 4,
+    "lore_author": "EarthToEcho13",
+    "real_author": "EarthToEcho13"
+  },
+  {
+    "source": "paintings/defaced_gondor.png",
+    "title": "Defaced Gondor Painting",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Snaga",
+    "real_author": "OneBehindTheHair"
+  },
+  {
+    "source": "paintings/departure_ringbearers.png",
+    "title": "Departure of the Ringbearers",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Gondhir Celebrinolf",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/elessar.png",
+    "title": "King Elessar",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Dervorin Dorthalion",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/elven_star.png",
+    "title": "Elven-Star",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/elwe_device.png",
+    "title": "Elwë's Device",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Glaad1234",
+    "real_author": "Glaad1234"
+  },
+  {
+    "source": "paintings/eregion_ruins.png",
+    "title": "The Ruins of Eregion",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/evendim.png",
+    "title": "Lake Evendim",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/feanor_device.png",
+    "title": "Fëanor's Device",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Carnifindion",
+    "real_author": "Carnifindion"
+  },
+  {
+    "source": "paintings/fingolfin_morgoth.png",
+    "title": "Morgoth vs. Fingolfin",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/firith_galad.png",
+    "title": "Firith Galad, City of the Wind",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/forest_gate.png",
+    "title": "Forest Gate",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Arbiter",
+    "real_author": "Arbiter"
+  },
+  {
+    "source": "paintings/gondolin.png",
+    "title": "Gondolin Under the Stars",
+    "width": 4,
+    "height": 4,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/isildur_fall.png",
+    "title": "the Fall of Isildur",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Glaad1234",
+    "real_author": "Glaad1234"
+  },
+  {
+    "source": "paintings/lamedon_sunset.png",
+    "title": "Sunset in Lamedon",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Zeradash",
+    "real_author": "Zeradash"
+  },
+  {
+    "source": "paintings/light_of_west.png",
+    "title": "The Light of the West",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/light_weathertop.png",
+    "title": "A Light on Weathertop",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Keeper",
+    "real_author": "Rocket Engineer"
+  },
+  {
+    "source": "paintings/lonely_mountain.png",
+    "title": "The Lonely Mountain",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Arbiter",
+    "real_author": "Arbiter"
+  },
+  {
+    "source": "paintings/lossarnach_flowers.png",
+    "title": "The Vale of Flowers",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Maglir of Lossarnach",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/lossoth_village.png",
+    "title": "Lossoth Village",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Warlord",
+    "real_author": "Warlord"
+  },
+  {
+    "source": "paintings/lugburz_tapestry.png",
+    "title": "Lugbúrz Tapestry",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Khôrmir",
+    "real_author": "OneBehindTheHair"
+  },
+  {
+    "source": "paintings/me_map.png",
+    "title": "Map of Middle-earth",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Menelor",
+    "real_author": "0xcursor"
+  },
+  {
+    "source": "paintings/mirrormere.png",
+    "title": "Kheled-zâram",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Carnifindion",
+    "real_author": "Carnifindion"
+  },
+  {
+    "source": "paintings/moonlit_lorien.png",
+    "title": "Moonlit Lothlórien",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Glaad1234",
+    "real_author": "Glaad1234"
+  },
+  {
+    "source": "paintings/nan_curunir.png",
+    "title": "Nan Curunír",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Gondhir Stonehewer",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/nan_curunir_ruined.png",
+    "title": "Nan Curunír (Despoiled) by Orcs",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Gondhir Stonehewer (and Orcs)",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/nazgul.png",
+    "title": "Nazgûl in the Shadows",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Elelyan",
+    "real_author": "Matador303"
+  },
+  {
+    "source": "paintings/one_ring.png",
+    "title": "One Ring to Rule them All",
+    "width": 1,
+    "height": 1,
+    "lore_author": "InaneArtifactOH",
+    "real_author": "InaneArtifact"
+  },
+  {
+    "source": "paintings/redhorn_gate.png",
+    "title": "The redhorn Gate",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/rohan_tapestry.png",
+    "title": "Rohan Tapestry",
+    "width": 4,
+    "height": 3,
+    "lore_author": "Gruk",
+    "real_author": "Gruk"
+  },
+  {
+    "source": "paintings/shadowfax.png",
+    "title": "Shadowfax",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Pinata",
+    "real_author": "Pinata"
+  },
+  {
+    "source": "paintings/silmaril.png",
+    "title": "Silmaril, Gem of the Elder Days",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/sunrise_bag_end.png",
+    "title": "Sunrise over Bag-End",
+    "width": 2,
+    "height": 1,
+    "lore_author": "BUNling",
+    "real_author": "BUNling"
+  },
+  {
+    "source": "paintings/tenebrous_demon.png",
+    "title": "A Tenebrous Demon",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Angmarzku",
+    "real_author": "Angmarzku"
+  },
+  {
+    "source": "paintings/the_east.png",
+    "title": "The East",
+    "width": 5,
+    "height": 3,
+    "lore_author": "Zeradash",
+    "real_author": "Zeradash"
+  },
+  {
+    "source": "paintings/tobold_horn.png",
+    "title": "Tobold's Horn",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Milo Panholder",
+    "real_author": "OneBehindTheHair"
+  },
+  {
+    "source": "paintings/umbar_fruits.png",
+    "title": "New Fruits of Umbar",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Gruk",
+    "real_author": "Gruk"
+  },
+  {
+    "source": "paintings/west_gate.png",
+    "title": "West Gate",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Oreo365",
+    "real_author": "Oreo365"
+  },
+  {
+    "source": "paintings/willow_end.png",
+    "title": "Willow End",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Morrow Proudfoot",
+    "real_author": "post_it_notes"
+  },
+  {
+    "source": "paintings/wine_jug.png",
+    "title": "Wine-Jug",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Gruk",
+    "real_author": "Gruk"
+  },
+  {
+    "source": "paintings/fire_hall.png",
+    "title": "Fire",
+    "width": 4,
+    "height": 2,
+    "lore_author": "Mares",
+    "real_author": "Mares"
+  },
+  {
+    "source": "paintings/blue_wizards.png",
+    "title": "The Blue Wizards",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/dorwinion_splendour.png",
+    "title": "Dorwinion's Splendour",
+    "width": 1,
+    "height": 1,
+    "lore_author": "marcobelva",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/draconic_worship.png",
+    "title": "Draconic Worship",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Angmarzku",
+    "real_author": "Angmarzku"
+  },
+  {
+    "source": "paintings/for_frozen_eyes.png",
+    "title": "A Sight for Frozen Eyes",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Angmarzku",
+    "real_author": "Angmarzku"
+  },
+  {
+    "source": "paintings/kill_for_goblin_king.png",
+    "title": "A Kill for the Goblin King",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Angmarzku",
+    "real_author": "Angmarzku"
+  },
+  {
+    "source": "paintings/lands_he_watches.png",
+    "title": "the Lands He Now Watches",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Urgogh the Defiler",
+    "real_author": "Mopsi"
+  },
+  {
+    "source": "paintings/mordor_glyph.png",
+    "title": "Mordorian Glyph",
+    "width": 1,
+    "height": 1,
+    "lore_author": "BUNling",
+    "real_author": "BUNling"
+  },
+  {
+    "source": "paintings/mountains_sunrise.png",
+    "title": "The Sun Rises",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/rattling_display.png",
+    "title": "A Rattling Display",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Angmarzku",
+    "real_author": "Angmarzku"
+  },
+  {
+    "source": "paintings/tower_west.png",
+    "title": "Tower of the West",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/shadow_in_dark.png",
+    "title": "A Shadow in the Dark",
+    "width": 6,
+    "height": 6,
+    "lore_author": "Jxmezm",
+    "real_author": "Jxmezm"
+  },
+  {
+    "source": "paintings/arkenstone.png",
+    "title": "The Arkenstone",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/older_than_time.png",
+    "title": "Older than Time",
+    "width": 1,
+    "height": 1,
+    "lore_author": "OneEighth",
+    "real_author": "OneEighth"
+  },
+  {
+    "source": "paintings/real_north.png",
+    "title": "The Real North",
+    "width": 3,
+    "height": 3,
+    "lore_author": "Nakras",
+    "real_author": "Nakras"
+  },
+  {
+    "source": "paintings/bag_end_sunset.png",
+    "title": "Bag-End Sunset",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Vernexer",
+    "real_author": "Vernexer"
+  },
+  {
+    "source": "paintings/beacon_towers.png",
+    "title": "Beacon Towers",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/beorns_house.png",
+    "title": "Beorn's Hall",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Glaad1234",
+    "real_author": "Glaad1234"
+  },
+  {
+    "source": "paintings/beren_luthien_morgoth.png",
+    "title": "Beren and Lúthien before Morgoth",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Eleyan",
+    "real_author": "Matador303"
+  },
+  {
+    "source": "paintings/east_osgiliath.png",
+    "title": "East Osgiliath",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/fresh_kill.png",
+    "title": "Fresh Kill",
+    "width": 2,
+    "height": 2,
+    "lore_author": "OneEighth",
+    "real_author": "OneEighth"
+  },
+  {
+    "source": "paintings/fly_you_fools.png",
+    "title": "Fly, you Fools!",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/grey_havens.png",
+    "title": "The Grey Havens",
+    "width": 4,
+    "height": 3,
+    "lore_author": "Vernexer",
+    "real_author": "Vernexer"
+  },
+  {
+    "source": "paintings/mountains_cold.png",
+    "title": "The Mountains Cold",
+    "width": 10,
+    "height": 4,
+    "lore_author": "Jxmezm",
+    "real_author": "Jxmezm"
+  },
+  {
+    "source": "paintings/narsil.png",
+    "title": "Narsil; Red and White Flame",
+    "width": 4,
+    "height": 4,
+    "lore_author": "InaneArtifactOH",
+    "real_author": "InaneArtifact"
+  },
+  {
+    "source": "paintings/party_tree.png",
+    "title": "The Party Tree",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Veradai Took",
+    "real_author": "Rocket Engineer"
+  },
+  {
+    "source": "paintings/sand_view.png",
+    "title": "Sand",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/shelob_lair.png",
+    "title": "In the Lair of Shelob",
+    "width": 4,
+    "height": 2,
+    "lore_author": "Warlord",
+    "real_author": "Warlord"
+  },
+  {
+    "source": "paintings/shire_map.png",
+    "title": "Map of the Shirt",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Veradai Took",
+    "real_author": "Rocket Engineer"
+  },
+  {
+    "source": "paintings/sickly_moon.png",
+    "title": "The Sickly Moon",
+    "width": 1,
+    "height": 2,
+    "lore_author": "paul673",
+    "real_author": "Paul673"
+  },
+  {
+    "source": "paintings/stars_strange.png",
+    "title": "Where the Stars are Strange",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/sun_over_castle.png",
+    "title": "Sun over a Faraway Castle",
+    "width": 1,
+    "height": 1,
+    "lore_author": "wogleslaw",
+    "real_author": "Wogleslaw"
+  },
+  {
+    "source": "paintings/white_hand.png",
+    "title": "White Hand",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/wings_shadow.png",
+    "title": "Wings of Shadow",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Veradai Took",
+    "real_author": "Rocket Engineer"
+  },
+  {
+    "source": "paintings/tree_man.png",
+    "title": "Tree-man",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/hobbo_hole.png",
+    "title": "Hobbit hole",
+    "width": 1,
+    "height": 1,
+    "lore_author": "wogleslaw",
+    "real_author": "Wogleslaw"
+  },
+  {
+    "source": "paintings/at_first_light.png",
+    "title": "At First Light on the Fifth Day",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/black_southron_carpet.png",
+    "title": "Black Southron Wall-Carpet",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Karseius",
+    "real_author": "Karseius"
+  },
+  {
+    "source": "paintings/dorwinion_vineyard.png",
+    "title": "Dorwinion Vineyard",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Pinata",
+    "real_author": "Pinata"
+  },
+  {
+    "source": "paintings/everything_light_touches.png",
+    "title": "Everything the Light Touches",
+    "width": 3,
+    "height": 2,
+    "lore_author": "fearrippers",
+    "real_author": "fearrippers"
+  },
+  {
+    "source": "paintings/fog_barrow_downs.png",
+    "title": "Fog on the Barrow-downs",
+    "width": 3,
+    "height": 2,
+    "lore_author": "paul673",
+    "real_author": "paul673"
+  },
+  {
+    "source": "paintings/gladden_bank.png",
+    "title": "GLadden Riverbank",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Glaad1234",
+    "real_author": "Glaad1234"
+  },
+  {
+    "source": "paintings/heart_taur.png",
+    "title": "Heart of the Taurethrim",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Tactics_Vanguard",
+    "real_author": "Tactics_Vanguard"
+  },
+  {
+    "source": "paintings/huntsman_tapestry.png",
+    "title": "Huntsman Tapestry",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/lion_tapestry.png",
+    "title": "Lion Tapestry",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/map_ered_nimrais.png",
+    "title": "Map of Ered Nimrais",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Veradai Took",
+    "real_author": "Rocket Engineer"
+  },
+  {
+    "source": "paintings/mr_bilbo_trolls.png",
+    "title": "Mr. Bilbo's Trolls",
+    "width": 3,
+    "height": 2,
+    "lore_author": "fearrippers",
+    "real_author": "fearrippers"
+  },
+  {
+    "source": "paintings/my_precious.png",
+    "title": "My precious",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Orchidcube",
+    "real_author": "Orchidcube"
+  },
+  {
+    "source": "paintings/old_mirkwood_road.png",
+    "title": "The Old Mirkwood Road",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Arbiter",
+    "real_author": "Arbiter"
+  },
+  {
+    "source": "paintings/red_southron_carpet.png",
+    "title": "Red Southron Wall-Carpet",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Karseius",
+    "real_author": "Karseius"
+  },
+  {
+    "source": "paintings/riddles_dark.png",
+    "title": "Riddles in the Dark",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/saruman.png",
+    "title": "Saruman",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/smoke_break.png",
+    "title": "Smoke Break",
+    "width": 2,
+    "height": 2,
+    "lore_author": "OneEighth",
+    "real_author": "OneEighth"
+  },
+  {
+    "source": "paintings/sunset_over_seas.png",
+    "title": "Sunset over the Seas",
+    "width": 2,
+    "height": 1,
+    "lore_author": "wogleslaw",
+    "real_author": "Wogleslaw"
+  },
+  {
+    "source": "paintings/waters_awakening.png",
+    "title": "Waters of Awakening",
+    "width": 4,
+    "height": 3,
+    "lore_author": "Morwë Haldkán",
+    "real_author": "Adu"
+  },
+  {
+    "source": "paintings/woodmen_village.png",
+    "title": "Woodman Village",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Glaad1234",
+    "real_author": "Glaad1234"
+  },
+  {
+    "source": "paintings/light_andrast.png",
+    "title": "A Light upon Andrast",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/harad_sunset.png",
+    "title": "Harad Sunset",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Oreo365",
+    "real_author": "Oreo365"
+  },
+  {
+    "source": "paintings/helms_deep_wall.png",
+    "title": "Helm's Deep",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Oreo365",
+    "real_author": "Oreo365"
+  },
+  {
+    "source": "paintings/taurethrim_glyph.png",
+    "title": "Taurethrim Glyph",
+    "width": 1,
+    "height": 1,
+    "lore_author": "BUNling",
+    "real_author": "BUNling"
+  },
+  {
+    "source": "paintings/bear_carrock.png",
+    "title": "Bear of the Carrock",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Keiname",
+    "real_author": "LordOropher"
+  },
+  {
+    "source": "paintings/chiefs_hunt.png",
+    "title": "The Chief's Hunt",
+    "width": 2,
+    "height": 1,
+    "lore_author": "fearrippers",
+    "real_author": "fearrippers"
+  },
+  {
+    "source": "paintings/eagles_eyrie_autumn.png",
+    "title": "Eagles' Eyrie in Autumn",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Athelbert",
+    "real_author": "Athelbert"
+  },
+  {
+    "source": "paintings/easterling_tapestry.png",
+    "title": "Easterling Tapestry",
+    "width": 4,
+    "height": 2,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/forochel_blues.png",
+    "title": "Forochel Blues",
+    "width": 1,
+    "height": 1,
+    "lore_author": "InaneArtifactOH",
+    "real_author": "InaneArtifact"
+  },
+  {
+    "source": "paintings/i_am_no_man.png",
+    "title": "I am no Man!",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/mountains_east.png",
+    "title": "Mountains of the East",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Athelbert",
+    "real_author": "Athelbert"
+  },
+  {
+    "source": "paintings/throne_mumakah.png",
+    "title": "Throne of Mûmakâh",
+    "width": 2,
+    "height": 2,
+    "lore_author": "BUNling",
+    "real_author": "BUNling"
+  },
+  {
+    "source": "paintings/trebuchet_construction.png",
+    "title": "Trebuchet Construction",
+    "width": 4,
+    "height": 2,
+    "lore_author": "Wollibo",
+    "real_author": "Wollibo"
+  },
+  {
+    "source": "paintings/balin.png",
+    "title": "Balin",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Callende Ancalima",
+    "real_author": "DragonBardic"
+  },
+  {
+    "source": "paintings/ballista_construction.png",
+    "title": "Ballista Construction",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Wollibo",
+    "real_author": "Wollibo"
+  },
+  {
+    "source": "paintings/battle_five_armies.png",
+    "title": "The Battle of the Five Armies",
+    "width": 4,
+    "height": 2,
+    "lore_author": "Gondhir Stonehewer",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/catapult_construction.png",
+    "title": "Catapult Contruction",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Wollibo",
+    "real_author": "Wollibo"
+  },
+  {
+    "source": "paintings/desert_midnight.png",
+    "title": "Desert Midnight",
+    "width": 4,
+    "height": 3,
+    "lore_author": "Athelbert",
+    "real_author": "Athelbert"
+  },
+  {
+    "source": "paintings/durin_deathless.png",
+    "title": "Durin the Deathless, King of Khazad-dûm",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/durins_forge.png",
+    "title": "At the Forges of Durin",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/eorl_celebrant.png",
+    "title": "Earl the Young at Celebrant",
+    "width": 3,
+    "height": 4,
+    "lore_author": "Callende Ancalima",
+    "real_author": "DragonBardic"
+  },
+  {
+    "source": "paintings/fire_and_water.png",
+    "title": "Fire and Water",
+    "width": 5,
+    "height": 3,
+    "lore_author": "Mopsi O'Roll",
+    "real_author": "Mopsi"
+  },
+  {
+    "source": "paintings/gilded_dwarven_tablet.png",
+    "title": "Gilded Dwarven Tablet",
+    "width": 2,
+    "height": 1,
+    "lore_author": "fearrippers",
+    "real_author": "fearrippers"
+  },
+  {
+    "source": "paintings/gimli.png",
+    "title": "Gimli, Son of Gloín",
+    "width": 2,
+    "height": 3,
+    "lore_author": "Wollibo",
+    "real_author": "Wollibo"
+  },
+  {
+    "source": "paintings/gleams_in_darkness.png",
+    "title": "Gleams in the Darkness",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Veradai Took",
+    "real_author": "Rocket Engineer"
+  },
+  {
+    "source": "paintings/gollum_redemption.png",
+    "title": "Gollum's Redemption",
+    "width": 1,
+    "height": 1,
+    "lore_author": "OneEighth",
+    "real_author": "OneEighth"
+  },
+  {
+    "source": "paintings/here_be_dragons.png",
+    "title": "Here be Dragons",
+    "width": 3,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/hobbit_style_rug.png",
+    "title": "Hobbit-style Rug",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Athelbert",
+    "real_author": "Athelbert"
+  },
+  {
+    "source": "paintings/hobbit_wine_bottle.png",
+    "title": "Hobbit Wine Bottle",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Callende Ancalima",
+    "real_author": "DragonBardic"
+  },
+  {
+    "source": "paintings/home_beneath_hill.png",
+    "title": "A Home Beneath the Hill",
+    "width": 3,
+    "height": 3,
+    "lore_author": "Bernt99",
+    "real_author": "Bernt99"
+  },
+  {
+    "source": "paintings/house_of_durin.png",
+    "title": "House of Durin",
+    "width": 2,
+    "height": 3,
+    "lore_author": "Callende Ancalima",
+    "real_author": "DragonBardic"
+  },
+  {
+    "source": "paintings/invasion_rhovanion.png",
+    "title": "The Invasion of Rhovanion",
+    "width": 3,
+    "height": 1,
+    "lore_author": "dylanhugh",
+    "real_author": "dylanhugh"
+  },
+  {
+    "source": "paintings/ironspan.png",
+    "title": "Ironspan: the heart of Ardunost",
+    "width": 2,
+    "height": 2,
+    "lore_author": "InaneArtifactOH",
+    "real_author": "InaneArtifact"
+  },
+  {
+    "source": "paintings/laketown_burning.png",
+    "title": "The Burning of Laketown",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/map_gondor.png",
+    "title": "Map of Gondor",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/no_shadow_can_touch.png",
+    "title": "No Shadow Can Touch",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Athelbert",
+    "real_author": "Athelbert"
+  },
+  {
+    "source": "paintings/rhunost.png",
+    "title": "Rhúnost",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/royal_bird.png",
+    "title": "Royal Bird",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Keiname",
+    "real_author": "LordOropher"
+  },
+  {
+    "source": "paintings/siege_tower_construction.png",
+    "title": "Siege Tower Construction",
+    "width": 2,
+    "height": 3,
+    "lore_author": "Wollibo",
+    "real_author": "Wollibo"
+  },
+  {
+    "source": "paintings/siege_tower_structure.png",
+    "title": "Siege Tower Structure",
+    "width": 2,
+    "height": 3,
+    "lore_author": "Wollibo",
+    "real_author": "Wollibo"
+  },
+  {
+    "source": "paintings/spirited_mearas.png",
+    "title": "Spirited Mearas Horse",
+    "width": 3,
+    "height": 5,
+    "lore_author": "Callende Ancalima",
+    "real_author": "DragonBardic"
+  },
+  {
+    "source": "paintings/thorin.png",
+    "title": "Thorin Oakenshield",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Callende Ancalima",
+    "real_author": "DragonBardic"
+  },
+  {
+    "source": "paintings/unexpected_journey.png",
+    "title": "An Unexpected Journey",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Gondibold Bolger",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/zirakzigil.png",
+    "title": "Zirakzigil",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/wold.png",
+    "title": "The Wold",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/aragorn_king.png",
+    "title": "Aragorn Elessar, King of Free Men",
+    "width": 1,
+    "height": 3,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/call_of_gondor.png",
+    "title": "Call of Gondor",
+    "width": 4,
+    "height": 3,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/dwarven_greeting_sign.png",
+    "title": "Dwarven Greeting Sign",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/fall_grey_mountains.png",
+    "title": "The Fall of the Grey Mountains",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/istari_arrive.png",
+    "title": "The Istari Arrive",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/night_to_remember.png",
+    "title": "A Night to Remember",
+    "width": 3,
+    "height": 3,
+    "lore_author": "Bilbo Baggins",
+    "real_author": "Bernt99"
+  },
+  {
+    "source": "paintings/people_of_the_wood.png",
+    "title": "The People of the Wood",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/remaking_narsil.png",
+    "title": "The Remaking of Narsil",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Elrond Half-Elven",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/seven_dwarven_lords.png",
+    "title": "The Seven Dwarven Lords and their Seven Rings of Power",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/smithies_belegost.png",
+    "title": "The Smithies of Belegost",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/table_thorin.png",
+    "title": "At the Table of Thorin Oakenshield, King under the Mountain",
+    "width": 3,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/white_walls.png",
+    "title": "The White Walls",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Garrarrat",
+    "real_author": "Garrarrat"
+  },
+  {
+    "source": "paintings/fingolfin_morgoth.png",
+    "title": "Morgoth Duels Fingolfin",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/balin_retakes_moria.png",
+    "title": "Balin, King of Moria",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/eregion_ruin_sunrise.png",
+    "title": "The Sun Rises Upon the Ruins of Eregion",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/fall_ered_luin.png",
+    "title": "The Fall of the Ered Luin",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/fellowship.png",
+    "title": "The Fellowship of the Ring",
+    "width": 3,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/gandalf_vs_balrog.png",
+    "title": "The Shadow Shall Not Avail You, Flame of Udûn!",
+    "width": 2,
+    "height": 3,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/glorfindel_duel_balrog.png",
+    "title": "Glorfindel the Golden Duelling a Balrog",
+    "width": 2,
+    "height": 3,
+    "lore_author": "Survivors of Gondolin",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/kinslaying.png",
+    "title": "The First Kinslaying upon the White Harbour",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Findel of the Undying Lands",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/lonely_mountain_goldbar.png",
+    "title": "The Lonely Mountain",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/pinnath_gelin.png",
+    "title": "Fields of Pinnath Gelin",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/red_mirk_oak.png",
+    "title": "Red Mirk-Oak",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Orsper",
+    "real_author": "Orsper"
+  },
+  {
+    "source": "paintings/shire_lands_fall.png",
+    "title": "The Shire-Lands in Hall",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/thorin_stands.png",
+    "title": "And There He Stood, Wielding No More Than An Oaken Branch",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/two_trees.png",
+    "title": "The Two Trees of Valinor",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Findel of the Undying Lands",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/watch_anfalas.png",
+    "title": "Watch over Anfalas",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/way_is_shut.png",
+    "title": "The Way is Shut",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Baldor, son of Brego",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/comfortable_solitude.png",
+    "title": "Comfortable Solitude",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Veradai Took",
+    "real_author": "Rocket Engineer"
+  },
+  {
+    "source": "paintings/forgotten_road.png",
+    "title": "Forgotten Road",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/map_mordor.png",
+    "title": "Map of Mordor",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Veradai Took",
+    "real_author": "Rocket Engineer"
+  },
+  {
+    "source": "paintings/isildur_sauron.png",
+    "title": "Sauron vs. Isildur",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/north_khand_road.png",
+    "title": "North Khand Road",
+    "width": 4,
+    "height": 2,
+    "lore_author": "Echo",
+    "real_author": "EarthToEcho13"
+  },
+  {
+    "source": "paintings/cabin_woods.png",
+    "title": "Cabin of the Woods",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/cherry_tree.png",
+    "title": "Cherry Tree",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/death_of_rog.png",
+    "title": "The Death of Rog, Hammer of Wrath",
+    "width": 3,
+    "height": 3,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/fall_gondolin.png",
+    "title": "The Fall of Gondolin Fair",
+    "width": 4,
+    "height": 3,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/feanor_final_stand.png",
+    "title": "Final Stand of Fëanor",
+    "width": 3,
+    "height": 3,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/first_rising_moon.png",
+    "title": "The First Rising of the Moon",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/helms_deep_fortress.png",
+    "title": "Helm's Deep: Fortress of the Rohirrim",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/mines_durins_folk.png",
+    "title": "The Mines of Durin's Folk",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/mountains_again_gandalf.png",
+    "title": "I Want to See Mountains Again, Gandalf",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/nandaro.png",
+    "title": "Nandaro",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/roses_by_water.png",
+    "title": "Roses by the Water (mislabeled as Vow of Lossarnach)",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Dervorin",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/southern_treasures.png",
+    "title": "Southern Treasures",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/turin_slaying_worm.png",
+    "title": "Túrin and the Slaying of the Worm",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/valacirca.png",
+    "title": "Valacirya, the Sickle",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Veradai Took",
+    "real_author": "Rocket Engineer"
+  },
+  {
+    "source": "paintings/vow_lossarnach.png",
+    "title": "Vow of Lossarnach",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/wealth_erebor.png",
+    "title": "The Wealth of Erebor",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Frór VII",
+    "real_author": "Goldbar22"
+  },
+  {
+    "source": "paintings/azanulbizar_the_dimrill_dale.png",
+    "title": "Azanulbizar, the Dimrill Dale",
+    "width": 5,
+    "height": 4,
+    "lore_author": "InaneArtifactOH",
+    "real_author": "InaneArtifact"
+  },
+  {
+    "source": "paintings/camel_tapestry.png",
+    "title": "Camel's Tapestry",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Karseius",
+    "real_author": "Karseius"
+  },
+  {
+    "source": "paintings/cirith_ungol.png",
+    "title": "Cirith Ungol",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/crocodiles_tapestry.png",
+    "title": "Crocodile's Tapestry",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Karseius",
+    "real_author": "Karseius"
+  },
+  {
+    "source": "paintings/deeping_wall.png",
+    "title": "Deeping Wall",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/doors_of_the_necromancer.png",
+    "title": "Doors of the Necormancer",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Dervorin of Gondor",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/flamingo.png",
+    "title": "Flamingo",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/flowers_of_the_east.png",
+    "title": "Flowers of the East",
+    "width": 3,
+    "height": 2,
+    "lore_author": "The Mad Gardener",
+    "real_author": "EarthToEcho13"
+  },
+  {
+    "source": "paintings/frozen_wastes.png",
+    "title": "Frozen Wastes",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/halifirien.png",
+    "title": "Halifirien",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Dervorin of Gondor",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/home_broadbeam.png",
+    "title": "Home of the Broadbeams",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/lions_tapestry.png",
+    "title": "Lion's Tapestry",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Karseius",
+    "real_author": "Karseius"
+  },
+  {
+    "source": "paintings/lower_your_axe",
+    "title": "Lower your Axe",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/mount_dolmed.png",
+    "title": "Mount Dolmed",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/mumaks_tapestry.png",
+    "title": "Mûmak's Tapestry",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Karseius",
+    "real_author": "Karseius"
+  },
+  {
+    "source": "paintings/peacocks_tapestry.png",
+    "title": "Peacock's Tapestry",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Karseius",
+    "real_author": "Karseius"
+  },
+  {
+    "source": "paintings/poisoned_vale.png",
+    "title": "Poisoned Value",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/sails_pelargir.png",
+    "title": "Sails of Pelargir",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/serpents_tapestry.png",
+    "title": "Serpent's Tapestry",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Karseius",
+    "real_author": "Karseius"
+  },
+  {
+    "source": "paintings/storm_brewing.png",
+    "title": "Storm's a Brewin'",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/swan_of_dol_amroth.png",
+    "title": "Swan of Dol Amroth",
+    "width": 3,
+    "height": 3,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/the_shire.png",
+    "title": "The Shire",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Jondoric Took II",
+    "real_author": "HalflingPrincess"
+  },
+  {
+    "source": "paintings/tol_morwen.png",
+    "title": "Tol Morwen",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/barmelui.png",
+    "title": "Bar Melui",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Cirion of Linhir",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/blueskies.png",
+    "title": "Clear Blue Skies",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/bree.png",
+    "title": "The Settlement of Men",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Arnolf Applieseed",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/calltomordor.png",
+    "title": "The Call of Mordor",
+    "width": 2,
+    "height": 3,
+    "lore_author": "Artemis_Entrerni",
+    "real_author": "Artemis_Entrerni"
+  },
+  {
+    "source": "paintings/elostrion.png",
+    "title": "The White Towers",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Carnifindion",
+    "real_author": "Carnifindion"
+  },
+  {
+    "source": "paintings/foolsgold.png",
+    "title": "Foold's Gold",
+    "width": 5,
+    "height": 3,
+    "lore_author": "Mopsi O'Roll",
+    "real_author": "Mopsi"
+  },
+  {
+    "source": "paintings/isengard.png",
+    "title": "Isengard",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Carnifindion",
+    "real_author": "Carnifindion"
+  },
+  {
+    "source": "paintings/lookabout.png",
+    "title": "A Look About",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Griffo Chubb",
+    "real_author": "Fuzzycryptid"
+  },
+  {
+    "source": "paintings/manwevarda.png",
+    "title": "Manwë & Varda",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/morgothcrown.png",
+    "title": "Morgoth's Crown",
+    "width": 1,
+    "height": 1,
+    "lore_author": "OneBehindTheHair",
+    "real_author": "OneBehindTheHair"
+  },
+  {
+    "source": "paintings/numenordawn.png",
+    "title": "Númenor Triptych - Dawn",
+    "width": 2,
+    "height": 3,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/numenorfall.png",
+    "title": "Númenor Triptych - Fall",
+    "width": 2,
+    "height": 3,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/numenorsplendor.png",
+    "title": "Númenor Triptych - Splendor",
+    "width": 3,
+    "height": 3,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/whitecity.png",
+    "title": "The White City",
+    "width": 6,
+    "height": 3,
+    "lore_author": "Imrazôr Víture",
+    "real_author": "Imrazôr"
+  },
+  {
+    "source": "paintings/yule.png",
+    "title": "Yule Night in Forochel",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Gondhir",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/Aragorns_Grave.png",
+    "title": "Tomb of King Elessar",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/dark_lake.png",
+    "title": "Night Water",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/Fair_Lebennin.png",
+    "title": "Fair Lebennin",
+    "width": 2,
+    "height": 3,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/Fangorn_Forest.png",
+    "title": "Fangorn Forest",
+    "width": 6,
+    "height": 4,
+    "lore_author": "InaneArtifactOH",
+    "real_author": "InaneArtifact"
+  },
+  {
+    "source": "paintings/Forth_Eorlingas.png",
+    "title": "Forth Eorlingas",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Gandalf the Turquoise",
+    "real_author": "Gandalf the Turquoise"
+  },
+  {
+    "source": "paintings/fred.png",
+    "title": "The Founding of Moria",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/Gandalf.png",
+    "title": "The Gray Wanderer/The Grey Wanderer",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Berothien Maerion",
+    "real_author": "Berothien Haerion"
+  },
+  {
+    "source": "paintings/generic_king.png",
+    "title": "Portrait of an unknown King",
+    "width": 2,
+    "height": 3,
+    "lore_author": "Mopsi O'Roll",
+    "real_author": "Mopsi"
+  },
+  {
+    "source": "paintings/Nan_Laur.png",
+    "title": "Nan Laur",
+    "width": 3,
+    "height": 4,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/orc.png",
+    "title": "Goblin in the Night",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Keiname",
+    "real_author": "LordOropher"
+  },
+  {
+    "source": "paintings/Sun_Carpet.png",
+    "title": "The Sun of Celebrant Wall-Carpet",
+    "width": 3,
+    "height": 2,
+    "lore_author": "InaneArtifactOH",
+    "real_author": "InaneArtifact"
+  },
+  {
+    "source": "paintings/swanhaven.png",
+    "title": "Swan Haven",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/The_Beacons_are_Lit.png",
+    "title": "The Beacons are Lit",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Gandalf the Turquoise",
+    "real_author": "Gandalf the Turquoise"
+  },
+  {
+    "source": "paintings/Thuringwethil.png",
+    "title": "Thuringwethil",
+    "width": 3,
+    "height": 4,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/Tom_Bombadil.png",
+    "title": "Jolly Tom",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/recipe.png",
+    "title": "Granny's Secret Recipe",
+    "width": 1,
+    "height": 2,
+    "lore_author": "A Hobbit's Granny",
+    "real_author": "Flare"
+  },
+  {
+    "source": "paintings/Rohan_had_come_at_last.png",
+    "title": "Rohan Had Come at Last",
+    "width": 4,
+    "height": 2,
+    "lore_author": "Gandalf the Turquoise",
+    "real_author": "Gandalf the Turquoise"
+  },
+  {
+    "source": "paintings/arken.png",
+    "title": "Etched Erebor Carving",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/Colors_of_the_sand.png",
+    "title": "Colours of the Sand/ Colors of the Sand",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/Dunland_Landscape.png",
+    "title": "Dunland Landscape",
+    "width": 4,
+    "height": 3,
+    "lore_author": "Horse Skull",
+    "real_author": "hypno05"
+  },
+  {
+    "source": "paintings/dwarf_carving.png",
+    "title": "Durin's Folk Carving",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/edoras.png",
+    "title": "Court of the Mark",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/eorl.png",
+    "title": "Earl the Young at Celebrant",
+    "width": 3,
+    "height": 3,
+    "lore_author": "Stánhir of Mundburg",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/Finarfin.png",
+    "title": "Finarfin's Device",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Orneno of Ondolindë",
+    "real_author": "Orneno"
+  },
+  {
+    "source": "paintings/Fingolfin.png",
+    "title": "Fingolfin's Device",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Orneno of Ondolindë",
+    "real_author": "Orneno"
+  },
+  {
+    "source": "paintings/Finwe.png",
+    "title": "Finwë's Device",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Orneno of Ondolindë",
+    "real_author": "Orneno"
+  },
+  {
+    "source": "paintings/Galadriels_Mirror.png",
+    "title": "Galadriel's Mirror",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Carnifindion",
+    "real_author": "Carnifindion"
+  },
+  {
+    "source": "paintings/gandalf_escape.png",
+    "title": "Escape from Orthanc",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/Gil-galad.png",
+    "title": "Gil-Galad's Device",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Orneno of Ondolindë",
+    "real_author": "Orneno"
+  },
+  {
+    "source": "paintings/Ring_in_Snow.png",
+    "title": "So small a thing",
+    "width": 2,
+    "height": 2,
+    "lore_author": "ThePieOfLyfe",
+    "real_author": "ThePieOflyfe"
+  },
+  {
+    "source": "paintings/riv_day.png",
+    "title": "Rivendell at Day",
+    "width": 3,
+    "height": 4,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/riv_night.png",
+    "title": "Rivendell at Night",
+    "width": 3,
+    "height": 4,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/Rock_painting_small.png",
+    "title": "Hunter's Rock Painting",
+    "width": 2,
+    "height": 1,
+    "lore_author": "NylaOfArda",
+    "real_author": "NylaOfArda"
+  },
+  {
+    "source": "paintings/Turgon.png",
+    "title": "Turgon's Device",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Orneno of Ondolindë",
+    "real_author": "Orneno"
+  },
+  {
+    "source": "paintings/Wolves_and_Crebain.png",
+    "title": "Wolves and Crebain",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Horse Skull",
+    "real_author": "hypno05"
+  },
+  {
+    "source": "paintings/Wulf.png",
+    "title": "King Wulf at Meduseld",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Horse Skull",
+    "real_author": "hypno05"
+  },
+  {
+    "source": "paintings/mammoth.png",
+    "title": "Mammoth Cave Painting",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Noloite",
+    "real_author": "Noloite"
+  },
+  {
+    "source": "paintings/SpyingEyes.png",
+    "title": "Prying Eyes",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Lawnmower",
+    "real_author": "Lawnmower"
+  },
+  {
+    "source": "paintings/autumnal.png",
+    "title": "Hobbit Autumnal Decoration",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Morrow Heather",
+    "real_author": "post_it_notes"
+  },
+  {
+    "source": "paintings/blood_and_wine.png",
+    "title": "Blood and Wine",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Henry",
+    "real_author": "AltHenry"
+  },
+  {
+    "source": "paintings/Burzum.png",
+    "title": "Burzum",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Carnifindion",
+    "real_author": "Carnifindion"
+  },
+  {
+    "source": "paintings/earendil.png",
+    "title": "Earendil's Device",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Pairemo",
+    "real_author": "RapizSK"
+  },
+  {
+    "source": "paintings/Horse_Skull.png",
+    "title": "Horse Skull",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Horse Skull",
+    "real_author": "hypno05"
+  },
+  {
+    "source": "paintings/balrog_east.png",
+    "title": "Fiery Folklore",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Lawnmower",
+    "real_author": "Lawnmower"
+  },
+  {
+    "source": "paintings/barliman.png",
+    "title": "Barliman Butterbur",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/cirith_gorgor.png",
+    "title": "Cirith Gorgor",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/dale_calling.png",
+    "title": "Dale Calling",
+    "width": 4,
+    "height": 2,
+    "lore_author": "Henry",
+    "real_author": "AltHenry"
+  },
+  {
+    "source": "paintings/dwarven_inscription.png",
+    "title": "Dwarven Inscription",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Horse Skull",
+    "real_author": "hypno05"
+  },
+  {
+    "source": "paintings/east_sunrise.png",
+    "title": "Eastern Sunrise",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Lawnmower",
+    "real_author": "Lawnmower"
+  },
+  {
+    "source": "paintings/faded_splendour.png",
+    "title": "Faded Splendour",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/forge_belegost.png",
+    "title": "The Forges of Belegost",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Gondhir",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/frozen_wastes2.png",
+    "title": "Frozen Wastes 2.0",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/gift_of_the_dwarven_king.png",
+    "title": "Gift of the Dwarven King",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/hide_croc.png",
+    "title": "Crocodile Hide",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Henry",
+    "real_author": "AltHenry"
+  },
+  {
+    "source": "paintings/hide_zebra.png",
+    "title": "Zebra Hide",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Henry",
+    "real_author": "AltHenry"
+  },
+  {
+    "source": "paintings/host_of_mordor.png",
+    "title": "Hosts of Mordor",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/journey_of_vingilot.png",
+    "title": "Journey of the Vingilot",
+    "width": 3,
+    "height": 4,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/jungle_temple.png",
+    "title": "Jungle Temple",
+    "width": 1,
+    "height": 2,
+    "lore_author": "CrownJewel162",
+    "real_author": "CrownJewel162"
+  },
+  {
+    "source": "paintings/minas_morgul.png",
+    "title": "Minas Morgul",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/northern_kingdom.png",
+    "title": "The Northern Kingdom",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/noticeboard.png",
+    "title": "Notice Board",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Henry",
+    "real_author": "AltHenry"
+  },
+  {
+    "source": "paintings/numenna.png",
+    "title": "Númenna",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Orneno of Ondolindë",
+    "real_author": "Orneno"
+  },
+  {
+    "source": "paintings/ondorene.png",
+    "title": "Ondorénë",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Orneno of Ondolindë",
+    "real_author": "Orneno"
+  },
+  {
+    "source": "paintings/pelt_black.png",
+    "title": "Black Pelt",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Henry",
+    "real_author": "AltHenry"
+  },
+  {
+    "source": "paintings/pelt_brown.png",
+    "title": "Brown Pelt",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Henry",
+    "real_author": "AltHenry"
+  },
+  {
+    "source": "paintings/pelt_giraffe.png",
+    "title": "Giraffe Pelt",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Henry",
+    "real_author": "AltHenry"
+  },
+  {
+    "source": "paintings/pelt_gray.png",
+    "title": "Gray Pelt",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Henry",
+    "real_author": "AltHenry"
+  },
+  {
+    "source": "paintings/pelt_white.png",
+    "title": "White Pelt",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Henry",
+    "real_author": "AltHenry"
+  },
+  {
+    "source": "paintings/pillar_ruin.png",
+    "title": "Old Pillar",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/silmarils.png",
+    "title": "The Device of the Silmarils",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Pairemo",
+    "real_author": "RapizSK"
+  },
+  {
+    "source": "paintings/standoff.png",
+    "title": "Standoff",
+    "width": 4,
+    "height": 2,
+    "lore_author": "Henry",
+    "real_author": "AltHenry"
+  },
+  {
+    "source": "paintings/stoneware1.png",
+    "title": "Stoneware Clutter 1",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Henry",
+    "real_author": "AltHenry"
+  },
+  {
+    "source": "paintings/stoneware2.png",
+    "title": "Stoneware Clutter 2",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Henry",
+    "real_author": "AltHenry"
+  },
+  {
+    "source": "paintings/swordsman_sky.png",
+    "title": "The Swordsman of the Sky",
+    "width": 3,
+    "height": 2,
+    "lore_author": "NukeRubberDucky",
+    "real_author": "NukeRubberDucky"
+  },
+  {
+    "source": "paintings/vaires_thread.png",
+    "title": "Vaire's Thread",
+    "width": 2,
+    "height": 3,
+    "lore_author": "Corij",
+    "real_author": "Corij"
+  },
+  {
+    "source": "paintings/woodmen.png",
+    "title": "Men of Mirkwood",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Rumil",
+    "real_author": "Rumil"
+  },
+  {
+    "source": "paintings/azuremountains.png",
+    "title": "Azure mountains of the West",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Markus Silverbeast",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/circleofstones.png",
+    "title": "Circle of Stones",
+    "width": 3,
+    "height": 1,
+    "lore_author": "Wibbles",
+    "real_author": "Wibbly"
+  },
+  {
+    "source": "paintings/Crown_of_Stars.png",
+    "title": "Crown of Stars",
+    "width": 4,
+    "height": 2,
+    "lore_author": "NylaOfArda",
+    "real_author": "NylaOfArda"
+  },
+  {
+    "source": "paintings/dwarfportrait.png",
+    "title": "Portrait of a Forgotten Warrior",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Markus Silverbeast",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/Glory_of_Shamiir.png",
+    "title": "Glory of Shamiir",
+    "width": 4,
+    "height": 3,
+    "lore_author": "Horse Skull",
+    "real_author": "hypno05"
+  },
+  {
+    "source": "paintings/lonelyelf.png",
+    "title": "Lonely Elf by a Campfire",
+    "width": 3,
+    "height": 5,
+    "lore_author": "Our AI Overlords",
+    "real_author": "AldanTanneo*"
+  }
+]
