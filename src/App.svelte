@@ -24,7 +24,7 @@
     </div>
   {:then paintings}
     <OptionBar bind:title={x} bind:field={y} />
-    <div class="max-w-full overflow-scroll">
+    <div class="max-w-full">
       <Table {paintings} filter={search_term} field={field}/>
     </div>
   {/await}

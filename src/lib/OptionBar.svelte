@@ -4,7 +4,7 @@
   export let field = "title";
 </script>
 
-<div class="w-full bg-slate-900 p-3">
+<div class="w-full bg-slate-900 p-3 sticky top-0">
   <input
     type="text"
     id="myInput"

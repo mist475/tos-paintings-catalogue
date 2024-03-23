@@ -121,26 +121,26 @@
   </div>
 
   {#each displayed_paintings as painting}
-    <div class="grid lg:grid-cols-6 gap-3 grid-cols-1">
+    <div class="grid lg:grid-cols-6 gap-3 grid-cols-1 pb-3">
       <div><img src={painting.source} alt="" /></div>
       <div>
-        <div class="lg:hidden inline font-semibold">title:</div>
+        <div class="lg:hidden inline font-semibold">Title:</div>
         {painting.title}
       </div>
       <div class="lg:text-center">
-        <div class="lg:hidden inline font-semibold">width:</div>
+        <div class="lg:hidden inline font-semibold">Width:</div>
         {painting.width}
       </div>
       <div class="lg:text-center">
-        <div class="lg:hidden inline font-semibold">height:</div>
+        <div class="lg:hidden inline font-semibold">Height:</div>
         {painting.height}
       </div>
       <div>
-        <div class="lg:hidden inline font-semibold">lore author:</div>
+        <div class="lg:hidden inline font-semibold">Lore author:</div>
         {painting.lore_author}
       </div>
       <div>
-        <div class="lg:hidden inline font-semibold">real author:</div>
+        <div class="lg:hidden inline font-semibold ">Real author:</div>
         {painting.real_author}
       </div>
     </div>
