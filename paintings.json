@@ -2510,5 +2510,53 @@
     "height": 5,
     "lore_author": "Our AI Overlords",
     "real_author": "AldanTanneo*"
+  },
+  {
+    "source": "paintings/Amon_Amarth.png",
+    "title": "Amon Amarth",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Hornet",
+    "real_author": "Hornet"
+  },
+  {
+    "source": "paintings/Bristle_Hills.png",
+    "title": "The Bristling Hills",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Markus Silverbeast",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/Gondor_Flower_Tapestry.png",
+    "title": "Blue Gondor Flower Tapestry",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Starfire_1234",
+    "real_author": "Starfire_1234"
+  },
+  {
+    "source": "paintings/Isengard_Samu.png",
+    "title": "Isengard",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Yamuvelt",
+    "real_author": "Samuvelt"
+  },
+  {
+    "source": "paintings/Queen_of_the_Night.png",
+    "title": "Queen of the Night",
+    "width": 2,
+    "height": 2,
+    "lore_author": "05-1",
+    "real_author": "05-1"
+  },
+  {
+    "source": "paintings/Thunder_West.png",
+    "title": "Thunder in de West",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Markus Silverbeast",
+    "real_author": "Marcobelva"
   }
 ]
