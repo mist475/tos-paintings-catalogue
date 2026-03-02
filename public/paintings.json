@@ -42,8 +42,8 @@
   {
     "source": "paintings/cherry_blossoms.png",
     "title": "Cherry Blossoms",
-    "width": 2,
-    "height": 4,
+    "width": 4,
+    "height": 2,
     "lore_author": "EarthToEcho13",
     "real_author": "EarthToEcho13"
   },
@@ -1264,14 +1264,6 @@
     "real_author": "Garrarrat"
   },
   {
-    "source": "paintings/fingolfin_morgoth.png",
-    "title": "Morgoth Duels Fingolfin",
-    "width": 1,
-    "height": 2,
-    "lore_author": "Frór VII",
-    "real_author": "Goldbar22"
-  },
-  {
     "source": "paintings/balin_retakes_moria.png",
     "title": "Balin, King of Moria",
     "width": 2,
@@ -1459,7 +1451,7 @@
     "source": "paintings/fall_gondolin.png",
     "title": "The Fall of Gondolin Fair",
     "width": 4,
-    "height": 3,
+    "height": 2,
     "lore_author": "Frór VII",
     "real_author": "Goldbar22"
   },
@@ -1656,7 +1648,7 @@
     "real_author": "Karseius"
   },
   {
-    "source": "paintings/lower_your_axe",
+    "source": "paintings/lower_your_axe.png",
     "title": "Lower your Axe",
     "width": 2,
     "height": 1,
@@ -2518,5 +2510,261 @@
     "height": 5,
     "lore_author": "Our AI Overlords",
     "real_author": "AldanTanneo*"
+  },
+  {
+    "source": "paintings/Amon_Amarth.png",
+    "title": "Amon Amarth",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Hornet",
+    "real_author": "Hornet"
+  },
+  {
+    "source": "paintings/Bristle_Hills.png",
+    "title": "The Bristling Hills",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Markus Silverbeast",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/Gondor_Flower_Tapestry.png",
+    "title": "Blue Gondor Flower Tapestry",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Starfire_1234",
+    "real_author": "Starfire_1234"
+  },
+  {
+    "source": "paintings/Isengard_Samu.png",
+    "title": "Isengard",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Yamuvelt",
+    "real_author": "Samuvelt"
+  },
+  {
+    "source": "paintings/Queen_of_the_Night.png",
+    "title": "Queen of the Night",
+    "width": 2,
+    "height": 2,
+    "lore_author": "05-1",
+    "real_author": "05-1"
+  },
+  {
+    "source": "paintings/Thunder_West.png",
+    "title": "Thunder in de West",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Markus Silverbeast",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/BeautyOfRhun.png",
+    "title": "Beauty of Rhûn",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Markus S.",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/BotanicalWondersOfHarad.png",
+    "title": "Botanical Wonders of Harad",
+    "width": 2,
+    "height": 3,
+    "lore_author": "Markus S.",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/ChalkenDelvings.png",
+    "title": "The Twin Cypresses",
+    "width": 2,
+    "height": 1,
+    "lore_author": "Markus S.",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/FreezingChill.png",
+    "title": "Freezing Chill",
+    "width": 3,
+    "height": 2,
+    "lore_author": "Markus S.",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/LoneAndLevelSand.png",
+    "title": "Lone and Level Sands",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Markus S.",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/OldManCottage.png",
+    "title": "Old Man's Cottage",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Markus S.",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/OneIcouldcallKing.png",
+    "title": "One I could call King",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Gondhir Stonehewer",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/RecklessAbandon.png",
+    "title": "Reckless Abandon",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Markus S.",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/Rohirrim_well.png",
+    "title": "Grimslade Well",
+    "width": 2,
+    "height": 2,
+    "lore_author": "mrofrost",
+    "real_author": "mrofrost"
+  },
+  {
+    "source": "paintings/ThroneAndHomeofKings.png",
+    "title": "Throne and Home of Kings",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Markus S.",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/fiore_di_monocromia.png",
+    "title": "Fiori di MonoCromia",
+    "width": 2,
+    "height": 2,
+    "lore_author": "TacticSniper45",
+    "real_author": "TacticSniper45"
+  },
+  {
+    "source": "paintings/Frorheim.png",
+    "title": "Frorheim",
+    "width": 5,
+    "height": 4,
+    "lore_author": "Markus S.",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/Hollowbold.png",
+    "title": "Hollowbold",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Gondhir Stonehewer",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/RichMansBoquet.png",
+    "title": "Rich Mans Bouquet",
+    "width": 1,
+    "height": 3,
+    "lore_author": "Markus S.",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/TheDrumsOfWar.png",
+    "title": "The Drums of War",
+    "width": 4,
+    "height": 3,
+    "lore_author": "Markus S.",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/EasternShores.png",
+    "title": "Eastern Shores",
+    "width": 3,
+    "height": 1,
+    "lore_author": "Markus S.",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/khopaharpy.png",
+    "title": "Harpy Goddess of Khopakadar",
+    "width": 3,
+    "height": 3,
+    "lore_author": "TacticSniper45",
+    "real_author": "TacticSniper45"
+  },
+  {
+    "source": "paintings/porosharpy.png",
+    "title": "Harpy Goddess of Poros",
+    "width": 3,
+    "height": 3,
+    "lore_author": "TacticSniper45",
+    "real_author": "TacticSniper45"
+  },
+  {
+    "source": "paintings/SunlitCity.png",
+    "title": "Sunlit City",
+    "width": 3,
+    "height": 1,
+    "lore_author": "Markus S.",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/The_Mountains_Bounty.png",
+    "title": "The Mountain's Bounty",
+    "width": 2,
+    "height": 2,
+    "lore_author": "Mathis Isambard",
+    "real_author": "Avras_Dradel/mistofer"
+  },
+  {
+    "source": "paintings/edge_of_the_world.png",
+    "title": "Edge of the World",
+    "width": 6,
+    "height": 3,
+    "lore_author": "Markus S.",
+    "real_author": "Marcobelva"
+  },
+  {
+    "source": "paintings/minas_tirith_ogur.png",
+    "title": "Minas Tirith",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Ogur",
+    "real_author": "Ogur"
+  },
+  {
+    "source": "paintings/over_his_halls.png",
+    "title": "But now the Thunder weeps o'er his Hall",
+    "width": 1,
+    "height": 2,
+    "lore_author": "Gondhir Stonehewer",
+    "real_author": "Gondhir"
+  },
+  {
+    "source": "paintings/The_Elvenkings_Halls.png",
+    "title": "The Elvenking's Halls",
+    "width": 4,
+    "height": 3,
+    "lore_author": "Ogur",
+    "real_author": "Ogur"
+  },
+  {
+    "source": "paintings/the_most_clever.png",
+    "title": "The Most Clever",
+    "width": 1,
+    "height": 1,
+    "lore_author": "Salmon",
+    "real_author": "SemanticSalmon"
+  },
+  {
+    "source": "paintings/stone_catacomb.png",
+    "title": "Stone Catacomb",
+    "width": 2,
+    "height": 1,
+    "lore_author": "NylaOfArda",
+    "real_author": "NylaOfArda"
   }
 ]
