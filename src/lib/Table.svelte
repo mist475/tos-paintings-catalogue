@@ -66,7 +66,7 @@
     <!-- svelte-ignore a11y-no-static-element-interactions -->
     <!-- svelte-ignore a11y-click-events-have-key-events -->
     <div
-      class="font-semibold py-2 pl-2 lg:pl-0 lg:my-0 my-2  border-2 border-slate-700 rounded lg:text-center"
+      class="font-semibold py-2 pl-2 lg:pl-0 lg:my-0 my-2  border-2 border-slate-700 rounded-sm lg:text-center"
       on:click={() => {
         sort_function("title", true);
         sort_direction *= -1;
@@ -77,7 +77,7 @@
     <!-- svelte-ignore a11y-no-static-element-interactions -->
     <!-- svelte-ignore a11y-click-events-have-key-events -->
     <div
-      class="font-semibold pl-2 lg:pl-0 lg:text-center lg:my-0 my-2 py-2  border-2 border-slate-700 rounded"
+      class="font-semibold pl-2 lg:pl-0 lg:text-center lg:my-0 my-2 py-2  border-2 border-slate-700 rounded-sm"
       on:click={() => {
         sort_function("width");
         sort_direction *= -1;
@@ -88,7 +88,7 @@
     <!-- svelte-ignore a11y-no-static-element-interactions -->
     <!-- svelte-ignore a11y-click-events-have-key-events -->
     <div
-      class=" font-semibold pl-2 lg:pl-0 lg:text-center lg:my-0 my-2 py-2  border-2 border-slate-700 rounded"
+      class=" font-semibold pl-2 lg:pl-0 lg:text-center lg:my-0 my-2 py-2  border-2 border-slate-700 rounded-sm"
       on:click={() => {
         sort_function("height");
         sort_direction *= -1;
@@ -99,7 +99,7 @@
     <!-- svelte-ignore a11y-no-static-element-interactions -->
     <!-- svelte-ignore a11y-click-events-have-key-events -->
     <div
-      class="font-semibold pl-2 lg:pl-0 py-2 lg:text-center lg:my-0 my-2 border-2 border-slate-700 rounded"
+      class="font-semibold pl-2 lg:pl-0 py-2 lg:text-center lg:my-0 my-2 border-2 border-slate-700 rounded-sm"
       on:click={() => {
         sort_function("lore_author", true);
         sort_direction *= -1;
@@ -110,7 +110,7 @@
     <!-- svelte-ignore a11y-no-static-element-interactions -->
     <!-- svelte-ignore a11y-click-events-have-key-events -->
     <div
-      class="font-semibold pl-2 lg:pl-0 py-2 border-2 lg:text-center lg:my-0 my-2 border-slate-700 rounded "
+      class="font-semibold pl-2 lg:pl-0 py-2 border-2 lg:text-center lg:my-0 my-2 border-slate-700 rounded-sm "
       on:click={() => {
         sort_function("real_author", true);
         sort_direction *= -1;
