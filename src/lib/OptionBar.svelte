@@ -8,11 +8,11 @@
   <input
     type="text"
     id="myInput"
-    class="rounded p-1 shadow-inner"
+    class="rounded p-1 shadow-inner bg-white"
     placeholder="Search"
     bind:value={title}
   />
-  <select class="p-1 shadow-inner rounded" bind:value={field}>
+  <select class="p-1 shadow-inner rounded bg-white" bind:value={field}>
     <option value="title" > Title </option>
     <option value="width" > Width </option>
     <option value="height" > Height </option>
